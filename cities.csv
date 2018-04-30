@@ -1,0 +1,1014 @@
+cityLabel,population,countryLabel,gps,longitude,latitude
+Chongqing,28846170,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Delhi,26495000,India,Point(77.216666666 28.666666666),77.22,28.67
+Shanghai,23390000,People's Republic of China,Point(121.466666666 31.166666666),121.47,31.17
+Beijing,21710000,People's Republic of China,Point(116.391388888 39.905),116.39,39.91
+Lagos,21324000,Nigeria,Point(3.4 6.45),3.40,6.45
+Karachi,14910352,Pakistan,Point(67.01 24.86),67.01,24.86
+Karachi,14910352,Pakistan,Point(67.0822 24.9056),67.08,24.91
+Istanbul,14657434,Turkey,Point(28.960277777 41.01),28.96,41.01
+Tehran,13805000,Iran,Point(51.4231 35.6961),51.42,35.70
+Tokyo,13742906,Japan,Point(139.77 35.68),139.77,35.68
+Tianjin,13245000,People's Republic of China,Point(117.205555555 39.146666666),117.21,39.15
+Guangzhou,13080500,People's Republic of China,Point(113.258976 23.128795),113.26,23.13
+Moscow,12500123,Russia,Point(37.617777777 55.755833333),37.62,55.76
+Mumbai,12442373,India,Point(72.833333333 18.966666666),72.83,18.97
+São Paulo,12106920,Brazil,Point(-46.633947222 -23.550394444),-46.63,-23.55
+Nanyang,12010000,People's Republic of China,Point(112.52921 32.99871),112.53,33.00
+Shenzhen,11908400,People's Republic of China,Point(114.054 22.535),114.05,22.54
+Kinshasa,11855000,Democratic Republic of the Congo,Point(15.313888888 -4.331666666),15.31,-4.33
+Chengdu,11050000,People's Republic of China,Point(104.066666666 30.663611111),104.07,30.66
+Linyi,10820000,People's Republic of China,Point(118.3425 35.060555555),118.34,35.06
+Shijiazhuang,10784600,People's Republic of China,Point(114.508611111 38.042222222),114.51,38.04
+Baoding,10700000,People's Republic of China,Point(115.48452 38.86712),115.48,38.87
+Lahore,10665000,Pakistan,Point(74.343611111 31.549722222),74.34,31.55
+Bangalore,10535000,India,Point(77.597963 12.969907),77.60,12.97
+Ho Chi Minh City,10380000,Vietnam,Point(106.633333333 10.816666666),106.63,10.82
+Chennai,10265000,India,Point(80.27 13.09),80.27,13.09
+Lima,9904727,Peru,Point(-77.030555555 -12.045833333),-77.03,-12.05
+Zhoukou,9901000,People's Republic of China,Point(114.6418 33.62502),114.64,33.63
+Seoul,9857426,South Korea,Point(127.0 37.583333333),127.00,37.58
+Jakarta,9769000,Indonesia,Point(106.8 -6.166666666),106.80,-6.17
+Bogotá,9740000,Colombia,Point(-74.080833333 4.598888888),-74.08,4.60
+Cairo,9500000,Egypt,Point(31.239444444 30.056111111),31.24,30.06
+Hyderabad,9305000,India,Point(78.466666666 17.366666666),78.47,17.37
+Tokyo,9272565,Japan,Point(139.774444 35.683889),139.77,35.68
+Mexico City,8918653,Mexico,Point(-99.145555555 19.419444444),-99.15,19.42
+Dhaka,8906039,Bangladesh,Point(90.366666666 23.7),90.37,23.70
+Tehran,8846782,Iran,Point(51.416666666 35.7),51.42,35.70
+London,8787892,United Kingdom,Point(-0.1275 51.507222222),-0.13,51.51
+Heze,8750000,People's Republic of China,Point(115.433333333 35.233333333),115.43,35.23
+Xuzhou,8669000,People's Republic of China,Point(117.18587 34.26104),117.19,34.26
+New York City,8537673,United States of America,Point(-73.94 40.67),-73.94,40.67
+Weifang,8500000,People's Republic of China,Point(119.1 36.716666666),119.10,36.72
+Handan,8499000,People's Republic of China,Point(114.48937 36.61161),114.49,36.61
+Fuyang,8360000,People's Republic of China,Point(115.80447 32.89856),115.80,32.90
+Dongguan,8310000,People's Republic of China,Point(113.74928 23.04749),113.75,23.05
+Ganzhou,8300000,People's Republic of China,Point(114.933611111 25.829166666),114.93,25.83
+Jining,8023000,People's Republic of China,Point(116.566666666 35.4),116.57,35.40
+Riyadh,8002100,Saudi Arabia,Point(46.71 24.65),46.71,24.65
+Chongqing,7990000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Shenyang,7935000,People's Republic of China,Point(123.425833333 41.803888888),123.43,41.80
+Wuhan,7895000,People's Republic of China,Point(114.279167 30.5725),114.28,30.57
+Hanoi,7785000,Vietnam,Point(105.75 21.0),105.75,21.00
+Hanoi,7785000,Vietnam,Point(105.84117 21.0245),105.84,21.02
+Chongqing,7700000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Changchun,7674439,People's Republic of China,Point(125.2 43.9),125.20,43.90
+Ahmedabad,7645000,India,Point(72.58 23.03),72.58,23.03
+Zhumadian,7640000,People's Republic of China,Point(114.02528 32.97729),114.03,32.98
+Ningbo,7639000,People's Republic of China,Point(121.549166666 29.875),121.55,29.88
+Onitsha,7635000,Nigeria,Point(6.783333333 6.166666666),6.78,6.17
+Kuala Lumpur,7590000,Malaysia,Point(101.7 3.159722222),101.70,3.16
+Hefei,7457027,People's Republic of China,Point(117.279444444 31.863611111),117.28,31.86
+Hong Kong,7336585,People's Republic of China,Point(114.158611111 22.278333333),114.16,22.28
+Nantong,7282835,People's Republic of China,Point(120.8873 31.98288),120.89,31.98
+Hengyang,7265000,People's Republic of China,Point(112.58568 26.89676),112.59,26.90
+Yancheng,7260240,People's Republic of China,Point(120.133055555 33.383888888),120.13,33.38
+Luanda,7250000,Angola,Point(13.233333333 -8.833333333),13.23,-8.83
+Foshan,7194311,People's Republic of China,Point(113.105556 23.029167),113.11,23.03
+Tangshan,7100000,People's Republic of China,Point(118.174166666 39.629166666),118.17,39.63
+Changsha,7044118,People's Republic of China,Point(112.972222 28.196111),112.97,28.20
+Zhengzhou,7005000,People's Republic of China,Point(113.66051 34.74919),113.66,34.75
+Shangqiu,7000000,People's Republic of China,Point(115.64673 34.42592),115.65,34.43
+Baghdad,6960000,Iraq,Point(44.416666666 33.35),44.42,33.35
+Bijie,6959000,People's Republic of China,Point(105.28092 27.30947),105.28,27.31
+Zhanjiang,6900000,People's Republic of China,Point(110.403056 21.196667),110.40,21.20
+Nanning,6825000,People's Republic of China,Point(108.31501 22.81918),108.32,22.82
+Hangzhou,6820000,People's Republic of China,Point(120.155067 30.274097),120.16,30.27
+Cangzhou,6800000,People's Republic of China,Point(116.84519 38.30369),116.85,38.30
+Maoming,6706000,People's Republic of China,Point(110.91783 21.66182),110.92,21.66
+Huanggang,6667000,People's Republic of China,Point(114.87991 30.45246),114.88,30.45
+Xinyang,6634000,People's Republic of China,Point(114.06722 32.12641),114.07,32.13
+Luoyang,6549941,People's Republic of China,Point(112.42447 34.65867),112.42,34.66
+Yantai,6516900,People's Republic of China,Point(121.266389 37.399722),121.27,37.40
+Quanzhou,6480000,People's Republic of China,Point(118.59479 24.89744),118.59,24.90
+Rio de Janeiro,6476631,Brazil,Point(-43.196388888 -22.908333333),-43.20,-22.91
+Shangrao,6441000,People's Republic of China,Point(117.963333333 28.441944444),117.96,28.44
+Nanjing,6320000,People's Republic of China,Point(118.766666666 32.05),118.77,32.05
+Santiago,6310000,Chile,Point(-70.666666666 -33.45),-70.67,-33.45
+Kunming,6250000,People's Republic of China,Point(102.71043 25.04691),102.71,25.05
+Nanchong,6183000,People's Republic of China,Point(106.07843 30.79913),106.08,30.80
+Zunyi,6127009,People's Republic of China,Point(106.93363 27.70498),106.93,27.70
+Lu'an,6090000,People's Republic of China,Point(116.50778 31.75425),116.51,31.75
+Allahabad,5954391,India,Point(81.85 25.45),81.85,25.45
+Pune,5945000,India,Point(73.847777777 18.523611111),73.85,18.52
+Surat,5935000,India,Point(72.83 21.17),72.83,21.17
+Singapore,5888926,Singapore,Point(103.8 1.3),103.80,1.30
+Bandung,5860000,Indonesia,Point(107.566666666 -6.95),107.57,-6.95
+Suzhou,5845000,People's Republic of China,Point(120.61642 31.30401),120.62,31.30
+Xiangyang,5844000,People's Republic of China,Point(112.15307 32.06536),112.15,32.07
+Jingzhou,5841000,People's Republic of China,Point(112.236111111 30.324444444),112.24,30.32
+Qingdao,5775000,People's Republic of China,Point(120.4 36.116666666),120.40,36.12
+Xi'an,5740000,People's Republic of China,Point(108.9 34.266666666),108.90,34.27
+Taizhou,5740000,People's Republic of China,Point(121.42213 28.6583),121.42,28.66
+Qujing,5729000,People's Republic of China,Point(103.80287 25.51018),103.80,25.51
+Changde,5717200,People's Republic of China,Point(111.6839 29.03966),111.68,29.04
+Bangkok,5696409,Thailand,Point(100.516666666 13.75),100.52,13.75
+Dazhou,5693000,People's Republic of China,Point(107.49472 31.2152),107.49,31.22
+Jieyang,5634000,People's Republic of China,Point(116.36495 23.55334),116.36,23.55
+Anqing,5590000,People's Republic of China,Point(117.033333333 30.5),117.03,30.50
+Nairobi,5545000,Kenya,Point(36.816666666 -1.283333333),36.82,-1.28
+Xinxiang,5516000,People's Republic of China,Point(113.88515 35.29917),113.89,35.30
+Tai'an,5499000,People's Republic of China,Point(120.943407 24.46748),120.94,24.47
+Tai'an,5499000,People's Republic of China,Point(117.12697 36.1881),117.13,36.19
+Yangon,5430000,Myanmar,Point(96.15 16.8),96.15,16.80
+Suihua,5420000,People's Republic of China,Point(126.98079 46.6384),126.98,46.64
+Yichun,5400000,People's Republic of China,Point(114.38303 27.80412),114.38,27.80
+Shantou,5389328,People's Republic of China,Point(116.694111 23.373472),116.69,23.37
+Qiqihar,5367003,People's Republic of China,Point(123.95124 47.33981),123.95,47.34
+Khartoum,5345000,Sudan,Point(32.52654 15.60308),32.53,15.60
+Shantou,5319028,People's Republic of China,Point(116.694111 23.373472),116.69,23.37
+Weinan,5300000,People's Republic of China,Point(109.46838 34.49962),109.47,34.50
+Saint Petersburg,5281579,Russia,Point(30.316666666 59.95),30.32,59.95
+Ankara,5270575,Turkey,Point(32.866666666 39.866666666),32.87,39.87
+Zhaotong,5252000,People's Republic of China,Point(103.71445 27.33284),103.71,27.33
+Fuzhou,5245000,People's Republic of China,Point(119.291666666 26.076944444),119.29,26.08
+Yueyang,5158000,People's Republic of China,Point(113.1309 29.36472),113.13,29.36
+Yongzhou,5128000,People's Republic of China,Point(111.59527 26.4515),111.60,26.45
+Bozhou,5100000,People's Republic of China,Point(115.77422 33.86264),115.77,33.86
+Guilin,5046000,People's Republic of China,Point(110.283333333 25.266666666),110.28,25.27
+Nanchang,5042565,People's Republic of China,Point(115.887222 28.684167),115.89,28.68
+Xianyang,5040000,People's Republic of China,Point(108.716667 34.35),108.72,34.35
+Taizhou,5031000,People's Republic of China,Point(119.9 32.483056),119.90,32.48
+Harbin,5015000,People's Republic of China,Point(126.633333333 45.75),126.63,45.75
+Meizhou,5001000,People's Republic of China,Point(116.11913 24.29977),116.12,24.30
+Amman,4995000,Jordan,Point(35.933333333 31.95),35.93,31.95
+Abidjan,4980000,Ivory Coast,Point(-4.026666666 5.336388888),-4.03,5.34
+Surabaya,4975000,Indonesia,Point(112.733333333 -7.233333333),112.73,-7.23
+Mianyang,4945000,People's Republic of China,Point(104.73847 31.46688),104.74,31.47
+Shaoxing,4912239,People's Republic of China,Point(120.583333333 30.0),120.58,30.00
+Alexandria,4870000,Egypt,Point(29.916666666 31.2),29.92,31.20
+Yuncheng,4860000,People's Republic of China,Point(110.99796 35.03042),111.00,35.03
+Sydney,4840600,Australia,Point(151.2 -33.866666666),151.20,-33.87
+Pingdingshan,4838000,People's Republic of China,Point(113.29992 33.73499),113.30,33.73
+Huai'an,4799889,People's Republic of China,Point(119.133056 33.5),119.13,33.50
+Lianyungang,4790000,People's Republic of China,Point(119.1801 34.59057),119.18,34.59
+Ji'an,4759000,People's Republic of China,Point(115.0 27.133333333),115.00,27.13
+Jiu​jiang,4728778,People's Republic of China,Point(115.987222 29.738056),115.99,29.74
+Dar es Salaam,4715000,Tanzania,Point(39.283333333 -6.8),39.28,-6.80
+Kaifeng,4676159,People's Republic of China,Point(114.34034 34.79357),114.34,34.79
+Xiaogan,4665000,People's Republic of China,Point(113.91096 30.92731),113.91,30.93
+Jinhua,4610000,People's Republic of China,Point(119.64937 29.10462),119.65,29.10
+Wuxi,4580000,People's Republic of China,Point(120.283333 31.566667),120.28,31.57
+Huaihua,4558000,People's Republic of China,Point(109.959167 27.549444),109.96,27.55
+Zibo,4530597,People's Republic of China,Point(118.049722 36.783056),118.05,36.78
+Melbourne,4529500,Australia,Point(144.961388888 -37.820555555),144.96,-37.82
+Jilin City,4500000,People's Republic of China,Point(126.56157 43.8461),126.56,43.85
+Kolkata,4496694,India,Point(88.337777777 22.541111111),88.34,22.54
+Yangzhou,4459000,People's Republic of China,Point(119.43625 32.39117),119.44,32.39
+Yibin,4456000,People's Republic of China,Point(104.63997 28.75961),104.64,28.76
+Jiangmen,4448871,People's Republic of China,Point(113.07224 22.58908),113.07,22.59
+Cape Town,433688,South Africa,Point(18.425 -33.925),18.43,-33.93
+Johannesburg,4434827,South Africa,Point(28.050277777 -26.145),28.05,-26.15
+Chenzhou,4385000,People's Republic of China,Point(113.02667 25.79893),113.03,25.80
+Chifeng,4376600,People's Republic of China,Point(118.92234 42.26626),118.92,42.27
+Casablanca,4370000,Morocco,Point(-7.62 33.599166666),-7.62,33.60
+Gui​yang,4365000,People's Republic of China,Point(106.70786 26.57942),106.71,26.58
+Langfang,4358839,People's Republic of China,Point(116.70056 39.51962),116.70,39.52
+Zhangjiakou,4345491,People's Republic of China,Point(114.88114 40.81078),114.88,40.81
+Linfen,4316610,People's Republic of China,Point(111.50865 36.08121),111.51,36.08
+Wenzhou,4310000,People's Republic of China,Point(120.656075 27.999128),120.66,28.00
+Chongqing,4306933,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Chongqing,4300000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Luzhou,4291000,People's Republic of China,Point(105.44093 28.89182),105.44,28.89
+Xuchang,4289000,People's Republic of China,Point(113.82014 34.02444),113.82,34.02
+Visakhapatnam,4288113,India,Point(83.25 17.7),83.25,17.70
+Neijiang,4238000,People's Republic of China,Point(105.0635 29.58716),105.06,29.59
+Ziyang,4217000,People's Republic of China,Point(104.63974 30.12562),104.64,30.13
+Yiyang,4174000,People's Republic of China,Point(112.333333333 28.583333333),112.33,28.58
+İzmir,4168415,Turkey,Point(27.15 38.433333333),27.15,38.43
+Hengshui,4150000,People's Republic of China,Point(115.68599 37.73484),115.69,37.73
+Yichang,4115000,People's Republic of China,Point(111.280278 30.708333),111.28,30.71
+Chuzhou,4110000,People's Republic of China,Point(118.31148 32.30621),118.31,32.31
+Los Angeles,3976322,United States of America,Point(-118.25 34.05),-118.25,34.05
+New Taipei City,3970644,Taiwan,Point(121.445833 25.011111),121.45,25.01
+Zhaoqing,3910000,People's Republic of China,Point(112.45 23.05),112.45,23.05
+Huizhou,3875000,People's Republic of China,Point(114.41331 23.0904),114.41,23.09
+Wuhu,3842100,People's Republic of China,Point(118.36223 31.33398),118.36,31.33
+Binzhou,3779200,People's Republic of China,Point(118.0125 37.380555555),118.01,37.38
+Zhangzhou,3760000,People's Republic of China,Point(117.66117 24.50932),117.66,24.51
+Baoji,3738700,People's Republic of China,Point(107.17507 34.36094),107.18,34.36
+Yokohama,3733234,Japan,Point(139.633333333 35.433333333),139.63,35.43
+Guang'an,3723000,People's Republic of China,Point(106.63358 30.46729),106.63,30.47
+Hanzhong,3700000,People's Republic of China,Point(107.02598 33.07938),107.03,33.08
+Zhuzhou,3696000,People's Republic of China,Point(113.14692 27.84071),113.15,27.84
+Tongren,3680000,People's Republic of China,Point(109.18851 27.72334),109.19,27.72
+Kabul,3678034,Afghanistan,Point(69.165833333 34.532777777),69.17,34.53
+Qingyuan,3660000,People's Republic of China,Point(113.05075 23.68425),113.05,23.68
+Zaozhuang,3650000,People's Republic of China,Point(117.55 34.866666666),117.55,34.87
+Deyang,3636000,People's Republic of China,Point(104.39499 31.12892),104.39,31.13
+Liuzhou,3625000,People's Republic of China,Point(109.40693 24.31814),109.41,24.32
+Lanzhou,3616163,People's Republic of China,Point(103.83177 36.06171),103.83,36.06
+Chengde,3610000,People's Republic of China,Point(117.932222222 40.973888888),117.93,40.97
+Anshan,3584000,People's Republic of China,Point(122.98945 41.10662),122.99,41.11
+Puyang,3580000,People's Republic of China,Point(115.02996 35.76392),115.03,35.76
+Berlin,3574830,Germany,Point(13.383333333 52.516666666),13.38,52.52
+Changzhou,3570000,People's Republic of China,Point(119.95071 31.78353),119.95,31.78
+Suining,3556000,People's Republic of China,Point(105.57373 30.50984),105.57,30.51
+Jiaozuo,3540101,People's Republic of China,Point(113.2304 35.22904),113.23,35.23
+Xiamen,3531347,People's Republic of China,Point(118.733333333 24.6),118.73,24.60
+Bengbu,3525000,People's Republic of China,Point(117.35312 32.93537),117.35,32.94
+Lüliang,3500000,People's Republic of China,Point(111.13545 37.52028),111.14,37.52
+Busan,3440484,South Korea,Point(129.040277777 35.1),129.04,35.10
+Hyderabad,3429471,Pakistan,Point(68.368333333 25.379166666),68.37,25.38
+Algiers,3415811,Algeria,Point(3.058611111 36.776388888),3.06,36.78
+Jeddah,3400000,Saudi Arabia,Point(39.172777777 21.542777777),39.17,21.54
+Taiyuan,3398000,People's Republic of China,Point(112.54245 37.87326),112.54,37.87
+Addis Ababa,3384569,Ethiopia,Point(38.736944444 9.027222222),38.74,9.03
+Lucknow,3382000,India,Point(80.915833333 26.860555555),80.92,26.86
+Lucknow,3382000,India,Point(80.947 26.847),80.95,26.85
+Chaoyang,3370000,People's Republic of China,Point(120.44856 41.57567),120.45,41.58
+Leshan,3364000,People's Republic of China,Point(103.75755 29.5854),103.76,29.59
+Jiaxing,3330000,People's Republic of China,Point(120.75284 30.76613),120.75,30.77
+Heyuan,3320000,People's Republic of China,Point(114.69229 23.75033),114.69,23.75
+Siping,3300000,People's Republic of China,Point(124.36438 43.17154),124.36,43.17
+Chongqing,3229900,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Shiyan,3228000,People's Republic of China,Point(110.7755 32.63507),110.78,32.64
+Faisalabad,3203846,Pakistan,Point(73.079 31.418),73.08,31.42
+Qinzhou,3200000,People's Republic of China,Point(108.616666666 21.95),108.62,21.95
+Putian,3190000,People's Republic of China,Point(119.010278 25.439444),119.01,25.44
+Madrid,3182981,Spain,Point(-3.691944444 40.418888888),-3.69,40.42
+Datong,3160000,People's Republic of China,Point(113.28883 40.09079),113.29,40.09
+Shaoguan,3148000,People's Republic of China,Point(113.59271 24.80113),113.59,24.80
+Bazhong,3134000,People's Republic of China,Point(106.75586 31.85764),106.76,31.86
+Zhongshan,3121275,People's Republic of China,Point(113.35 22.533333333),113.35,22.53
+Multan,3117000,Pakistan,Point(71.416666666 30.2),71.42,30.20
+Ürümqi,3112559,People's Republic of China,Point(87.6 43.825),87.60,43.83
+Wuzhou,3101000,People's Republic of China,Point(111.316667 23.483333),111.32,23.48
+Tongliao,3094600,People's Republic of China,Point(122.26398 43.61723),122.26,43.62
+Guangyuan,3074000,People's Republic of China,Point(105.83985 32.43529),105.84,32.44
+Jaipur,3073350,India,Point(75.866666666 26.916666666),75.87,26.92
+Ningde,3030000,People's Republic of China,Point(119.516666666 26.666666666),119.52,26.67
+Giza,3021542,Egypt,Point(31.21 30.01),31.21,30.01
+Meishan,3020000,People's Republic of China,Point(103.83806 30.05746),103.84,30.06
+Mashhad,3001184,Iran,Point(59.604166666 36.306944444),59.60,36.31
+Jinzhou,3000000,People's Republic of China,Point(121.129166666 41.114444444),121.13,41.11
+Tieling,3000000,People's Republic of China,Point(123.83654 42.28407),123.84,42.28
+Shanwei,2990000,People's Republic of China,Point(115.333056 22.766389),115.33,22.77
+Sana'a,2957000,Yemen,Point(44.2 15.35),44.20,15.35
+Liupanshui,2955000,People's Republic of China,Point(104.83333 26.59444),104.83,26.59
+Liupanshui,2955000,People's Republic of China,Point(104.833333 26.594444),104.83,26.59
+Xinzhou,2950000,People's Republic of China,Point(112.7233 38.41778),112.72,38.42
+Quezon City,2936116,Philippines,Point(121.033333333 14.633333333),121.03,14.63
+Kiev,2934522,Ukraine,Point(30.523611111 50.45),30.52,50.45
+Salvador,2921087,Brazil,Point(-38.510833333 -12.970833333),-38.51,-12.97
+Xiangtan,2916000,People's Republic of China,Point(112.92283 27.84306),112.92,27.84
+Incheon,2913024,South Korea,Point(126.648611111 37.463888888),126.65,37.46
+Kiev,2907684,Ukraine,Point(30.523611111 50.45),30.52,50.45
+Daqing,2904532,People's Republic of China,Point(125.00798 46.59791),125.01,46.60
+Bursa,2901396,Turkey,Point(29.066666666 40.183333333),29.07,40.18
+Buenos Aires,2890151,Argentina,Point(-58.381944444 -34.599722222),-58.38,-34.60
+Nanping,2890000,People's Republic of China,Point(118.17282 26.64481),118.17,26.64
+Chongqing,2890000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Kadapa,2884524,India,Point(78.816666666 14.466666666),78.82,14.47
+Faisalabad,2880675,Pakistan,Point(73.079 31.418),73.08,31.42
+Rome,2873494,Italy,Point(12.482777777 41.893055555),12.48,41.89
+Pyongyang,2863000,North Korea,Point(125.73 39.03),125.73,39.03
+Jingmen City,2839000,People's Republic of China,Point(112.211388888 31.038055555),112.21,31.04
+Zigong,2800000,People's Republic of China,Point(104.764514 29.349842),104.76,29.35
+Qinhuangdao,2800000,People's Republic of China,Point(119.58812 39.93978),119.59,39.94
+Mudanjiang,2790000,People's Republic of China,Point(129.599722 44.586111),129.60,44.59
+Brasília,2789761,Brazil,Point(-47.882777777 -15.793888888),-47.88,-15.79
+Huludao,2787000,People's Republic of China,Point(120.837777777 40.709444444),120.84,40.71
+Kaohsiung City,2777384,Taiwan,Point(120.3 22.616667),120.30,22.62
+Longyan,2770000,People's Republic of China,Point(117.024444 25.088056),117.02,25.09
+Toronto,2731571,Canada,Point(-79.4 43.7),-79.40,43.70
+Taichung,2731056,Taiwan,Point(120.666666666 24.15),120.67,24.15
+Chicago,2722389,United States of America,Point(-87.65 41.9),-87.65,41.90
+Ōsaka,2713157,Japan,Point(135.501944444 34.693611111),135.50,34.69
+Kanpur,2701324,India,Point(80.331111111 26.4725),80.33,26.47
+Baotou,2700000,People's Republic of China,Point(109.83454 40.65621),109.83,40.66
+Taipei,2684567,Taiwan,Point(121.633333333 25.033333333),121.63,25.03
+Guayaquil,2644891,Ecuador,Point(-79.883333333 -2.183333333),-79.88,-2.18
+Hohhot,2635000,People's Republic of China,Point(111.66293 40.81507),111.66,40.82
+Chongqing,2634492,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Antananarivo,2610000,Madagascar,Point(47.521388888 -18.938611111),47.52,-18.94
+Weihai,2596753,People's Republic of China,Point(122.1 37.5),122.10,37.50
+Santo Domingo,2581827,Dominican Republic,Point(-69.893333333 18.476388888),-69.89,18.48
+Chittagong,2581643,Bangladesh,Point(91.816666666 22.316666666),91.82,22.32
+Xuancheng,2580000,People's Republic of China,Point(118.75178 30.94751),118.75,30.95
+Huzhou,2570000,People's Republic of China,Point(120.09581 30.86945),120.10,30.87
+Chaozhou,2566000,People's Republic of China,Point(116.63 23.67),116.63,23.67
+Hulunbuir,2549000,People's Republic of China,Point(119.75097 49.21534),119.75,49.22
+Vespasiano,2513451,Brazil,Point(-43.947777777 -19.891666666),-43.95,-19.89
+Lishui,2510000,People's Republic of China,Point(119.916666666 28.45),119.92,28.45
+Medellín,2508452,Colombia,Point(-75.574827777 6.244747222),-75.57,6.24
+Xianning,2506000,People's Republic of China,Point(114.32882 29.83411),114.33,29.83
+Dubai,2502715,United Arab Emirates,Point(55.309444444 25.269722222),55.31,25.27
+Luohe,2500000,People's Republic of China,Point(114.0109 33.58299),114.01,33.58
+Lusaka,2467467,Zambia,Point(28.283333333 -15.416666666),28.28,-15.42
+Daegu,2461002,South Korea,Point(128.6 35.866666666),128.60,35.87
+Fortaleza,2452185,Brazil,Point(-38.588888888 -3.781388888),-38.59,-3.78
+Baoshan,2450000,People's Republic of China,Point(99.16905 25.12105),99.17,25.12
+Douala,2446945,Cameroon,Point(9.7 4.05),9.70,4.05
+Yaounde,2440462,Cameroon,Point(11.518055555 3.857777777),11.52,3.86
+Tashkent,2424100,Uzbekistan,Point(69.266666666 41.3),69.27,41.30
+Cali,2420013,Colombia,Point(-76.519722222 3.44),-76.52,3.44
+Huangshi,2419000,People's Republic of China,Point(115.03262 30.20178),115.03,30.20
+Huainan,2409000,People's Republic of China,Point(117.016389 32.483056),117.02,32.48
+Nagpur,2405665,India,Point(79.083055555 21.153888888),79.08,21.15
+Dandong,2400000,People's Republic of China,Point(124.383333333 40.116666666),124.38,40.12
+Dandong,2400000,People's Republic of China,Point(124.39472 40.12917),124.39,40.13
+Chongqing,2400000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Omdurman,2395159,Sudan,Point(32.462887 15.683517),32.46,15.68
+Ghaziabad,2381452,India,Point(77.416666666 28.666666666),77.42,28.67
+Bekasi,2381053,Indonesia,Point(107.0 -6.233333333),107.00,-6.23
+Lincang,2368000,People's Republic of China,Point(100.0871 23.88643),100.09,23.89
+Jiamusi,2360000,People's Republic of China,Point(130.36531 46.80808),130.37,46.81
+Yangjiang,2357000,People's Republic of China,Point(111.96778 21.86505),111.97,21.87
+Nagoya,2314125,Japan,Point(136.933333333 35.116666666),136.93,35.12
+Fushun,2300000,People's Republic of China,Point(123.89173 41.87085),123.89,41.87
+Accra,2291352,Ghana,Point(-0.187 5.6037),-0.19,5.60
+Brisbane,2274560,Australia,Point(153.027777777 -27.467777777),153.03,-27.47
+Laibin,2272000,People's Republic of China,Point(109.233333333 23.733333333),109.23,23.73
+Yuxi,2264000,People's Republic of China,Point(102.54317 24.34953),102.54,24.35
+Ürümqi,2262786,People's Republic of China,Point(87.6 43.825),87.60,43.83
+Yingkou,2220000,People's Republic of China,Point(122.22972 40.66525),122.23,40.67
+Sanmenxia,2213000,People's Republic of China,Point(111.19497 34.77362),111.19,34.77
+Paris,2206488,France,Point(2.351827777 48.856577777),2.35,48.86
+Indore,2201927,India,Point(75.847222222 22.720555555),75.85,22.72
+Suizhou,2200000,People's Republic of China,Point(113.3658 31.71755),113.37,31.72
+Houston,2195914,United States of America,Point(-95.383055555 29.762777777),-95.38,29.76
+Hezhou,2184000,People's Republic of China,Point(111.547777777 24.416388888),111.55,24.42
+Baku,2181800,Azerbaijan,Point(49.835183333 40.366655555),49.84,40.37
+Huaibei,2158000,People's Republic of China,Point(116.78904 33.95618),116.79,33.96
+Xining,2154000,People's Republic of China,Point(101.77866 36.62386),101.78,36.62
+Basra,2150000,Iraq,Point(47.81 30.488888888),47.81,30.49
+Yan'an,2150000,People's Republic of China,Point(109.48628 36.59523),109.49,36.60
+Havana,2141652,Cuba,Point(-82.383333333 23.116666666),-82.38,23.12
+Mogadishu,2120000,Somalia,Point(45.3425 2.040833333),45.34,2.04
+Jincheng,2120000,People's Republic of China,Point(112.8483 35.49056),112.85,35.49
+Guatemala City,2110100,Guatemala,Point(-90.531388888 14.622777777),-90.53,14.62
+Haiphong,2103500,Vietnam,Point(106.666666666 20.8),106.67,20.80
+Rawalpindi,2098231,Pakistan,Point(73.033333333 33.6),73.03,33.60
+Medan,2097610,Indonesia,Point(98.666666666 3.666666666),98.67,3.67
+Manaus,2094391,Brazil,Point(-60.016666666 -3.1),-60.02,-3.10
+Kumasi,2069350,Ghana,Point(-1.616666666 6.683333333),-1.62,6.68
+Taoyuan District,2058328,Taiwan,Point(121.311111111 24.988888888),121.31,24.99
+Perth,2039200,Australia,Point(115.858888888 -31.952222222),115.86,-31.95
+Visakhapatnam,2035922,India,Point(83.25 17.7),83.25,17.70
+Tangerang,2001925,Indonesia,Point(106.63188934 -6.17830563),106.63,-6.18
+Tangerang,2001925,Indonesia,Point(106.631944444 -6.178333333),106.63,-6.18
+Barquisimeto,1995770,Venezuela,Point(-69.346694444 10.067777777),-69.35,10.07
+Minsk,1974800,Belarus,Point(27.561837 53.902246),27.56,53.90
+Kananga,1971704,Democratic Republic of the Congo,Point(22.448833333 -5.897),22.45,-5.90
+Peshawar,1970042,Pakistan,Point(71.5 34.0),71.50,34.00
+Jixi,1950000,People's Republic of China,Point(130.96496 45.29366),130.96,45.29
+Sapporo,1946313,Japan,Point(141.35 43.05),141.35,43.05
+Caracas,1943901,Venezuela,Point(-66.933333333 10.5),-66.93,10.50
+Fuxin,1930000,People's Republic of China,Point(121.648553 42.012669),121.65,42.01
+Blantyre,1895973,Malawi,Point(35.005833333 -15.786111111),35.01,-15.79
+Bucharest,1883425,Romania,Point(26.083333333 44.4),26.08,44.40
+Bhopal,1883381,India,Point(77.416666666 23.25),77.42,23.25
+Curitiba,1879355,Brazil,Point(-49.271944444 -25.429722222),-49.27,-25.43
+Vienna,1840573,Austria,Point(16.373064 48.20833),16.37,48.21
+Tainan,1840257,Taiwan,Point(120.183333333 22.983333333),120.18,22.98
+Pingxiang,1840000,People's Republic of China,Point(113.85 27.633333333),113.85,27.63
+Brazzaville,1827000,Republic of the Congo,Point(15.283333333 -4.266666666),15.28,-4.27
+Hamburg,1810438,Germany,Point(10.0 53.55),10.00,53.55
+Aleppo,1800000,Syria,Point(37.15 36.2),37.15,36.20
+Liaoyang,1800000,People's Republic of China,Point(123.1772 41.26432),123.18,41.26
+Lubumbashi,1786397,Democratic Republic of the Congo,Point(27.458055555 -11.669722222),27.46,-11.67
+Manila,1780148,Philippines,Point(121.0 14.583333333),121.00,14.58
+Chongqing,1772500,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Maputo,1766184,Mozambique,Point(32.576388888 -25.915277777),32.58,-25.92
+Isfahan,1756126,Iran,Point(51.679166666 32.651388888),51.68,32.65
+Damascus,1754000,Syria,Point(36.291944444 33.513055555),36.29,33.51
+Warsaw,1753977,Poland,Point(21.033333333 52.216666666),21.03,52.22
+Budapest,1752704,Hungary,Point(19.040833333 47.498333333),19.04,47.50
+Heihe,1750000,People's Republic of China,Point(127.488611 50.245833),127.49,50.25
+Pimpri-Chinchwad,1729320,India,Point(73.813055555 18.627777777),73.81,18.63
+Montreal,1704694,Canada,Point(-73.555 45.508056),-73.56,45.51
+Almaty,1703500,Kazakhstan,Point(76.9 43.25),76.90,43.25
+Mosul,1694000,Iraq,Point(43.116666666 36.366666666),43.12,36.37
+Patna,1683200,India,Point(85.141388888 25.61),85.14,25.61
+Mecca,1675368,Saudi Arabia,Point(39.826111111 21.4225),39.83,21.42
+Vadodara,1670806,India,Point(73.2 22.3),73.20,22.30
+Conakry,1667864,Guinea,Point(-13.712222222 9.509166666),-13.71,9.51
+Kampala,1659600,Uganda,Point(32.581111111 0.313611111),32.58,0.31
+Ecatepec de Morelos,1655015,Mexico,Point(-99.06 19.609722222),-99.06,19.61
+Makassar,1651146,Indonesia,Point(119.431111111 -5.133333333),119.43,-5.13
+Adana,1636229,Turkey,Point(35.325 37.0),35.33,37.00
+Davao City,1632991,Philippines,Point(125.6 7.066666666),125.60,7.07
+Depok,1631951,Indonesia,Point(106.8225 -6.393888888),106.82,-6.39
+Ouagadougou,1626950,Burkina Faso,Point(-1.535277777 12.357222222),-1.54,12.36
+Semarang,1621384,Indonesia,Point(110.416666666 -6.966666666),110.42,-6.97
+Barcelona,1620809,Spain,Point(2.176944444 41.3825),2.18,41.38
+Barcelona,1620809,Catalan Republic,Point(2.176944444 41.3825),2.18,41.38
+Yinchuan,1616000,People's Republic of China,Point(106.22536 38.47947),106.23,38.48
+Quito,1607734,Ecuador,Point(-78.509722222 -0.218611111),-78.51,-0.22
+Multan,1606481,Pakistan,Point(71.416666666 30.2),71.42,30.20
+Harare,1606000,Zimbabwe,Point(31.052222222 -17.829166666),31.05,-17.83
+Novosibirsk,1602915,Russia,Point(82.916666666 55.033333333),82.92,55.03
+Coimbatore,1601438,India,Point(76.966666666 11.0),76.97,11.00
+Karaj,1592492,Iran,Point(50.966666666 35.816666666),50.97,35.82
+Caloocan,1583978,Philippines,Point(120.966666666 14.65),120.97,14.65
+Beihai,1573000,People's Republic of China,Point(109.1 21.466666666),109.10,21.47
+Gujranwala,1569090,Pakistan,Point(74.183333333 32.15),74.18,32.15
+Fukuoka,1567189,Japan,Point(130.401944444 33.590277777),130.40,33.59
+Benxi,1567000,People's Republic of China,Point(123.76097 41.29204),123.76,41.29
+Bursa,1562828,Turkey,Point(29.066666666 40.183333333),29.07,40.18
+Zhuhai,1562000,People's Republic of China,Point(113.566666666 22.266666666),113.57,22.27
+Madurai,1561129,India,Point(78.119394444 9.919661111),78.12,9.92
+Philadelphia,1560297,United States of America,Point(-75.163333333 39.953055555),-75.16,39.95
+Gaziantep,1556381,Turkey,Point(37.383333333 37.066666666),37.38,37.07
+Recife,1555039,Brazil,Point(-34.880833333 -8.053888888),-34.88,-8.05
+Jingdezhen,1554000,People's Republic of China,Point(117.203611 29.294167),117.20,29.29
+Palembang,1548064,Indonesia,Point(104.764444444 -2.983333333),104.76,-2.98
+Ordos City,1547900,People's Republic of China,Point(109.9975 39.815),110.00,39.82
+Daejeon,1535445,South Korea,Point(127.385 36.351),127.39,36.35
+Kōbe,1532153,Japan,Point(135.183 34.6913),135.18,34.69
+Ya'an,1512000,People's Republic of China,Point(103.00074 29.9888),103.00,29.99
+Cartagena,1505755,Colombia,Point(-75.525277777 10.423611111),-75.53,10.42
+Kawasaki,1503690,Japan,Point(139.7 35.516666666),139.70,35.52
+Phnom Penh,1501725,Cambodia,Point(104.916666666 11.55),104.92,11.55
+Gwangju,1501557,South Korea,Point(126.916666666 35.166666666),126.92,35.17
+Shuangyashan,1500000,People's Republic of China,Point(131.15452 46.63883),131.15,46.64
+Tabriz,1494998,Iran,Point(46.283333333 38.083333333),46.28,38.08
+Nashik,1486053,India,Point(73.783333333 20.0),73.78,20.00
+Zhangjiajie,1486000,People's Republic of China,Point(110.48442 29.12548),110.48,29.13
+Porto Alegre,1484941,Brazil,Point(-51.23 -30.032777777),-51.23,-30.03
+Kyoto,1472027,Japan,Point(135.768055555 35.011666666),135.77,35.01
+Yunfu,1470000,People's Republic of China,Point(112.03526 22.92423),112.04,22.92
+Huangshan City,1470000,People's Republic of China,Point(118.31506 29.71318),118.32,29.71
+Phoenix,1469471,United States of America,Point(-112.076388888 33.528333333),-112.08,33.53
+Munich,1464301,Germany,Point(11.566666666 48.133333333),11.57,48.13
+Shiraz,1460665,Iran,Point(52.516666666 29.6),52.52,29.60
+Guadalajara,1460148,Mexico,Point(-103.351944444 20.666111111),-103.35,20.67
+Yekaterinburg,1455904,Russia,Point(60.583333333 56.833333333),60.58,56.83
+Auckland,1454300,New Zealand,Point(174.783333333 -36.85),174.78,-36.85
+Santa Cruz,1453549,Bolivia,Point(-63.1975 -17.789166666),-63.20,-17.79
+Kharkiv,1445098,Ukraine,Point(36.229166666 50.0),36.23,50.00
+Peshawar,1439205,Pakistan,Point(71.5 34.0),71.50,34.00
+León,1436733,Mexico,Point(-101.680555555 21.119722222),-101.68,21.12
+San Antonio,1436697,United States of America,Point(-98.493333333 29.428611111),-98.49,29.43
+Puebla Garcia,1434062,Mexico,Point(-98.217777777 19.051388888),-98.22,19.05
+Chizhou,1430000,People's Republic of China,Point(117.48487 30.65826),117.48,30.66
+Hebi,1419000,People's Republic of China,Point(114.2887 35.74975),114.29,35.75
+Faridabad,1404653,India,Point(77.3 28.416666666),77.30,28.42
+Sharjah,1400000,United Arab Emirates,Point(55.391944444 25.3575),55.39,25.36
+Ulaanbaatar,1396288,Mongolia,Point(106.916666666 47.916666666),106.92,47.92
+San Diego,1394928,United States of America,Point(-117.1625 32.715),-117.16,32.72
+Goiânia,1393575,Brazil,Point(-49.253888888 -16.678888888),-49.25,-16.68
+Belém,1393399,Brazil,Point(-48.503888888 -1.455833333),-48.50,-1.46
+Aurangabad,1371330,India,Point(75.32 19.88),75.32,19.88
+Islamabad,1365000,Pakistan,Point(73.066666666 33.716666666),73.07,33.72
+Milan,1351562,Italy,Point(9.190336 45.464161),9.19,45.46
+Jamshedpur,1337131,India,Point(86.183333333 22.8),86.18,22.80
+Rajkot,1335397,India,Point(70.798363888 22.296908333),70.80,22.30
+Zapopan,1332272,Mexico,Point(-103.391944444 20.720277777),-103.39,20.72
+Guarulhos,1324781,Brazil,Point(-46.533333333 -23.466666666),-46.53,-23.47
+Montevideo,1319108,Uruguay,Point(-56.166666666 -34.866944444),-56.17,-34.87
+Doha,1312947,Qatar,Point(51.533333333 25.3),51.53,25.30
+Khulna,1311100,Bangladesh,Point(89.55 22.816666666),89.55,22.82
+Meerut,1305429,India,Point(77.7 28.99),77.70,28.99
+Adelaide,1300000,Australia,Point(138.583333333 -34.933333333),138.58,-34.93
+Yangquan,1300000,People's Republic of China,Point(113.57623 37.8576),113.58,37.86
+Qom,1292283,Iran,Point(50.878888888 34.646111111),50.88,34.65
+Sofia,1286383,Bulgaria,Point(23.333333333 42.7),23.33,42.70
+Saitama,1286082,Japan,Point(139.645277777 35.861666666),139.65,35.86
+Ma'anshan,1281000,People's Republic of China,Point(118.360472 31.713531),118.36,31.71
+Prague,1280508,Czech Republic,Point(14.421388888 50.088611111),14.42,50.09
+Jabalpur,1267564,India,Point(79.933333333 23.166666666),79.93,23.17
+Nizhny Novgorod,1264075,Russia,Point(44.0075 56.326944444),44.01,56.33
+Saitama,1263979,Japan,Point(139.645277777 35.861666666),139.65,35.86
+Comayaguela,1250000,Honduras,Point(-87.21667 14.08333),-87.22,14.08
+Yichun,1250000,People's Republic of China,Point(128.88932 47.72347),128.89,47.72
+Panjin,1243000,People's Republic of China,Point(122.06339 41.11983),122.06,41.12
+Calgary,1239220,Canada,Point(-114.066666666 51.05),-114.07,51.05
+Abuja,1235880,Nigeria,Point(7.5 9.05),7.50,9.05
+Belgrade,1233796,Serbia,Point(20.466666666 44.816666666),20.47,44.82
+Kazan,1231878,Russia,Point(49.114444444 55.790833333),49.11,55.79
+Barranquilla,1228621,Colombia,Point(-74.796388888 10.963888888),-74.80,10.96
+Vasai-Virar,1222390,India,Point(72.8 19.47),72.80,19.47
+Maracaibo,1220000,Venezuela,Point(-71.633333333 10.633333333),-71.63,10.63
+Tangerang Selatan,1219245,Indonesia,Point(106.718055555 -6.288888888),106.72,-6.29
+Lijiang,1216000,People's Republic of China,Point(100.22514 26.87505),100.23,26.88
+Suwon,1207032,South Korea,Point(127.019166666 37.284166666),127.02,37.28
+Ciudad Guayana,1200000,Venezuela,Point(-62.651652777 8.359616666),-62.65,8.36
+Mombasa,1200000,Kenya,Point(39.666666666 -4.05),39.67,-4.05
+Tunis,1200000,Tunisia,Point(10.18 36.800833333),10.18,36.80
+Chelyabinsk,1198858,Russia,Point(61.4 55.15),61.40,55.15
+Hiroshima,1198555,Japan,Point(132.455277777 34.385277777),132.46,34.39
+Varanasi,1198491,India,Point(83.006111111 25.306944444),83.01,25.31
+Dallas,1197816,United States of America,Point(-96.7975 32.7825),-96.80,32.78
+Maiduguri,1197497,Nigeria,Point(13.15 11.833333333),13.15,11.83
+Srinagar,1192792,India,Point(74.806111111 34.091111111),74.81,34.09
+Balıkesir,1189057,Turkey,Point(27.884166666 39.651111111),27.88,39.65
+Omsk,1178391,Russia,Point(73.383333333 54.966666666),73.38,54.97
+Brussels,1175000,Belgium,Point(4.3525 50.846666666),4.35,50.85
+Samara,1169719,Russia,Point(50.116666666 53.183333333),50.12,53.18
+Bandarlampung,1166761,Indonesia,Point(105.2625 -5.429444444),105.26,-5.43
+Ulsan,1166033,South Korea,Point(129.316666666 35.55),129.32,35.55
+Campinas,1164098,Brazil,Point(-47.057294444 -22.900913888),-47.06,-22.90
+Naypyidaw,1160242,Myanmar,Point(96.15833 19.80278),96.16,19.80
+Santiago de los Caballeros,1142947,Dominican Republic,Point(-70.7 19.45),-70.70,19.45
+Quetta,1140000,Pakistan,Point(67.007 30.192),67.01,30.19
+Monterrey,1135512,Mexico,Point(-100.308611111 25.671388888),-100.31,25.67
+Kigali,1132686,Rwanda,Point(30.060555555 -1.953611111),30.06,-1.95
+Amritsar,1132383,India,Point(74.85 31.616666666),74.85,31.62
+Ufa,1130000,Russia,Point(55.966666666 54.733333333),55.97,54.73
+Tegucigalpa,1126534,Honduras,Point(-87.206666666 14.094166666),-87.21,14.09
+Tripoli,1126000,Libya,Point(13.183333333 32.9),13.18,32.90
+Bhiwandi,1125898,India,Point(73.066666666 19.3),73.07,19.30
+Rostov-on-Don,1125299,Russia,Point(39.716666666 47.233333333),39.72,47.23
+Birmingham,1123000,United Kingdom,Point(-1.9 52.483333333),-1.90,52.48
+Navi Mumbai,1119477,India,Point(73.01 19.03),73.01,19.03
+Tbilisi,1118035,Georgia,Point(44.783333333 41.716666666),44.78,41.72
+Fes,1112072,Morocco,Point(-5.001944444 34.044166666),-5.00,34.04
+Ahvaz,1112021,Iran,Point(48.669166666 31.320277777),48.67,31.32
+Biên Hòa,1104000,Vietnam,Point(106.816666666 10.95),106.82,10.95
+Gwalior,1101981,India,Point(78.193055555 26.215),78.19,26.22
+Hegang,1100000,People's Republic of China,Point(130.2775 47.313889),130.28,47.31
+N'Djamena,1092066,Chad,Point(15.072222222 12.116388888),15.07,12.12
+Irbid,1088100,Jordan,Point(35.85 32.55),35.85,32.55
+Howrah,1077075,India,Point(88.31 22.59),88.31,22.59
+Cologne,1075935,Germany,Point(6.957777777 50.942222222),6.96,50.94
+Yerevan,1074000,Armenia,Point(44.516666666 40.183333333),44.52,40.18
+São Luís,1073893,Brazil,Point(-44.302777777 -2.53),-44.30,-2.53
+San Pedro Sula,1073824,Honduras,Point(-88.033333333 15.5),-88.03,15.50
+Ranchi,1073440,India,Point(85.334722222 23.355555555),85.33,23.36
+Antalya,1068099,Turkey,Point(30.683333333 36.9),30.68,36.90
+Krasnoyarsk,1066934,Russia,Point(92.866666666 56.016666666),92.87,56.02
+Changwon,1059241,South Korea,Point(128.681111111 35.228055555),128.68,35.23
+Sendai,1058070,Japan,Point(140.869444444 38.268333333),140.87,38.27
+Ganja,1054962,Azerbaijan,Point(46.360555555 40.682777777),46.36,40.68
+Chandigarh,1054686,India,Point(76.791111111 30.735277777),76.79,30.74
+Perm,1048005,Russia,Point(56.248888888 58.013888888),56.25,58.01
+Ciudad Nezahualcóyotl,1039867,Mexico,Point(-98.988888888 19.4),-98.99,19.40
+Voronezh,1039801,Russia,Point(39.210555555 51.671666666),39.21,51.67
+Chongqing,1039000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Jodhpur,1033918,India,Point(73.033333333 26.466666666),73.03,26.47
+Ogbomosho,1032000,Nigeria,Point(4.25 8.133333333),4.25,8.13
+Bogor,1030720,Indonesia,Point(106.8 -6.6),106.80,-6.60
+Batam,1029808,Indonesia,Point(104.016666666 1.067777777),104.02,1.07
+Maceió,1029129,Brazil,Point(-35.735 -9.665833333),-35.74,-9.67
+Managua,1028808,Nicaragua,Point(-86.266666666 12.15),-86.27,12.15
+Niamey,1026848,Niger,Point(2.111111111 13.508611111),2.11,13.51
+Shubra El-Kheima,1025569,Egypt,Point(31.242222222 30.128611111),31.24,30.13
+San Francisco,805235,United States of America,Point(-122.433333 37.766667),-122.43,37.77
+San Jose,1025350,United States of America,Point(-121.872777777 37.304166666),-121.87,37.30
+Monrovia,1021762,Liberia,Point(-10.804722222 6.310555555),-10.80,6.31
+Volgograd,1015586,Russia,Point(44.483333333 48.7),44.48,48.70
+Odessa,1010783,Ukraine,Point(30.73262 46.47747),30.73,46.48
+Odessa,1010783,Ukraine,Point(30.743444 46.485722),30.74,46.49
+Raipur,1010087,India,Point(81.6336833 21.2379468),81.63,21.24
+Ashgabat,1003678,Turkmenistan,Point(58.383333333 37.95),58.38,37.95
+Kota,1001694,India,Point(75.83 25.18),75.83,25.18
+Kota,1001694,India,Point(76.383333333 25.3),76.38,25.30
+Abu Dhabi,1000000,United Arab Emirates,Point(54.368611111 24.478055555),54.37,24.48
+Bareilly,1000000,India,Point(79.415 28.364),79.42,28.36
+Goyang,990073,South Korea,Point(126.835 37.656388888),126.84,37.66
+Port-au-Prince,987310,Haiti,Point(-72.338611111 18.5425),-72.34,18.54
+Dnipro,983836,Ukraine,Point(34.983333333 48.45),34.98,48.45
+Dnipro,983836,Soviet Union,Point(34.983333333 48.45),34.98,48.45
+Honolulu,983429,United States of America,Point(-157.966666666 21.466666666),-157.97,21.47
+Kathmandu,975453,Nepal,Point(85.366666666 27.716666666),85.37,27.72
+Chiba,975140,Japan,Point(140.1 35.6),140.10,35.60
+Chiba,975140,Japan,Point(140.11667 35.6),140.12,35.60
+Kirkuk,975000,Iraq,Point(44.4 35.466666666),44.40,35.47
+Tangier,974000,Morocco,Point(-5.8125 35.784722222),-5.81,35.78
+Naples,972212,Italy,Point(14.25 40.833333333),14.25,40.83
+Yongin,971327,South Korea,Point(127.201111111 37.236111111),127.20,37.24
+Zhoushan,969145,People's Republic of China,Point(122.09885 30.01619),122.10,30.02
+Bishkek,965900,Kyrgyzstan,Point(74.566666666 42.866666666),74.57,42.87
+Denizli,963464,Turkey,Point(29.087777777 37.773055555),29.09,37.77
+Nouakchott,958399,Mauritania,Point(-15.974444444 18.078333333),-15.97,18.08
+Guwahati,957352,India,Point(91.766666666 26.166666666),91.77,26.17
+Maracay,955362,Venezuela,Point(-67.595833333 10.246944444),-67.60,10.25
+Mandalay,952570,Myanmar,Point(96.086944444 21.976944444),96.09,21.98
+Solapur,951558,India,Point(75.916666666 17.683333333),75.92,17.68
+Freetown,951000,Sierra Leone,Point(-13.233055555 8.483333333),-13.23,8.48
+Kitakyūshū,950646,Japan,Point(130.85034 33.85181),130.85,33.85
+Kitakyūshū,950646,Japan,Point(130.883333333 33.883333333),130.88,33.88
+Seongnam,948757,South Korea,Point(127.137777777 37.438611111),127.14,37.44
+Kingston,937700,Jamaica,Point(-76.8 17.983333333),-76.80,17.98
+Stockholm,935619,Sweden,Point(18.068611111 59.329444444),18.07,59.33
+Ottawa,934243,Canada,Point(-75.7 45.416666666),-75.70,45.42
+Aligarh,933119,India,Point(78.08 27.88),78.08,27.88
+Edmonton,932546,Canada,Point(-113.5 53.5),-113.50,53.50
+Danzhou,932356,People's Republic of China,Point(109.583333333 19.5),109.58,19.50
+Donetsk,929063,Ukraine,Point(37.804166666 48.008888888),37.80,48.01
+Marrakesh,928850,Morocco,Point(-7.98108 31.62947),-7.98,31.63
+Cebu City,922611,Philippines,Point(123.9 10.3),123.90,10.30
+Heroica Matamoros,920367,Mexico,Point(-97.504166666 25.879722222),-97.50,25.88
+Sialkot,920000,Pakistan,Point(74.533333333 32.5),74.53,32.50
+Trichy,916857,India,Point(79.15 11.35),79.15,11.35
+Austin,912791,United States of America,Point(-97.733333333 30.3),-97.73,30.30
+Ashgabat,909000,Turkmenistan,Point(58.383333333 37.95),58.38,37.95
+Kayseri,904699,Turkey,Point(35.483333333 38.733333333),35.48,38.73
+Dammam,903000,Saudi Arabia,Point(50.2 26.283333333),50.20,26.28
+Homs,900492,Syria,Point(36.716666666 34.733333333),36.72,34.73
+Khartoum North,900000,Sudan,Point(32.633333333 15.633333333),32.63,15.63
+Djelfa,897920,Algeria,Point(3.25 34.666666666),3.25,34.67
+Turin,889600,Italy,Point(7.7 45.066666666),7.70,45.07
+Abeokuta,888924,Nigeria,Point(3.35 7.15),3.35,7.15
+Muradabad,887871,India,Point(78.783333333 28.833333333),78.78,28.83
+Mysore,887446,India,Point(76.643333333 12.303055555),76.64,12.30
+Duval County,885855,United States of America,Point(-81.65 30.33),-81.65,30.33
+Hermosillo,884342,Mexico,Point(-110.950833333 29.095555555),-110.95,29.10
+Krasnodar,881476,Russia,Point(38.983333333 45.033333333),38.98,45.03
+Panama City,880691,Panama,Point(-79.5 9.0),-79.50,9.00
+Jacksonville,880619,United States of America,Point(-81.65 30.316666666),-81.65,30.32
+Astana,880191,Kazakhstan,Point(71.4 51.183333333),71.40,51.18
+Chihuahua,878062,Mexico,Point(-106.088888888 28.635277777),-106.09,28.64
+Klang,878000,Malaysia,Point(101.45 3.033333333),101.45,3.03
+Gurgaon,876824,India,Point(77.033333333 28.466666666),77.03,28.47
+Vijayawada,874587,India,Point(80.616666666 16.516666666),80.62,16.52
+Jos,873943,Nigeria,Point(8.883333333 9.933333333),8.88,9.93
+Jalandhar,873725,India,Point(75.579166666 31.325555555),75.58,31.33
+Arequipa,869351,Peru,Point(-71.536883333 -16.398763888),-71.54,-16.40
+Bucheon,867678,South Korea,Point(126.783055555 37.498888888),126.78,37.50
+Jerusalem,865721,Israel,Point(35.216666666 31.783333333),35.22,31.78
+Zamboanga City,861799,Philippines,Point(122.083333333 6.916666666),122.08,6.92
+Mar del Plata,860000,Argentina,Point(-57.55 -38.0),-57.55,-38.00
+Culiacán,858638,Mexico,Point(-107.383333333 24.8),-107.38,24.80
+Marseille,855393,France,Point(5.376388888 43.296666666),5.38,43.30
+Pekanbaru,855221,Indonesia,Point(101.45 0.533333333),101.45,0.53
+Shymkent,854500,Kazakhstan,Point(69.6 42.3),69.60,42.30
+Indianapolis,853173,United States of America,Point(-86.158055555 39.767777777),-86.16,39.77
+Erbil,852500,Iraq,Point(44.009444444 36.191111111),44.01,36.19
+Kermanshah,851405,Iran,Point(47.068611111 34.316666666),47.07,34.32
+Salé,850403,Morocco,Point(-6.816667 34.05),-6.82,34.05
+Ilorin,847582,Nigeria,Point(4.55 8.5),4.55,8.50
+Saratov,843460,Russia,Point(46.0 51.533333333),46.00,51.53
+Bhubaneswar,837737,India,Point(85.828055555 20.264444444),85.83,20.26
+Lomé,837437,Togo,Point(1.222777777 6.131944444),1.22,6.13
+Denpasar,834881,Indonesia,Point(115.216666666 -8.65),115.22,-8.65
+Sakai,834267,Japan,Point(135.483333333 34.566666666),135.48,34.57
+Cheongju,833276,South Korea,Point(127.489722222 36.637222222),127.49,36.64
+Valencia,830000,Venezuela,Point(-68.0 10.166666666),-68.00,10.17
+El Alto,827239,Bolivia,Point(-68.2 -16.5),-68.20,-16.50
+Amsterdam,825080,Netherlands,Point(4.9 52.383333333),4.90,52.38
+São Bernardo do Campo,816925,Brazil,Point(-46.565 -23.693888888),-46.57,-23.69
+Mira-Bhayandar,814655,India,Point(72.85 19.3),72.85,19.30
+Fort Worth,812238,United States of America,Point(-97.333055555 32.757222222),-97.33,32.76
+Warangal,811844,India,Point(79.601111111 17.975555555),79.60,17.98
+Taguig,804915,Philippines,Point(121.05 14.516666666),121.05,14.52
+Niigata,804152,Japan,Point(139.019722222 37.916111111),139.02,37.92
+Trujillo,803546,Peru,Point(-79.028888888 -8.111944444),-79.03,-8.11
+La Plata,799523,Argentina,Point(-57.95 -34.933333333),-57.95,-34.93
+Libreville,797003,Gabon,Point(9.4544 0.3901),9.45,0.39
+Hamamatsu,796114,Japan,Point(137.733333333 34.716666666),137.73,34.72
+Vientiane,795000,Laos,Point(102.6 17.966666666),102.60,17.97
+Zagreb,790017,Croatia,Point(15.95 45.8),15.95,45.80
+Huaral,790011,Peru,Point(-77.216666666 -11.5),-77.22,-11.50
+Huaral,790011,Peru,Point(-77.20906067 -11.50076008),-77.21,-11.50
+Huaral,790011,Peru,Point(-77.2 -11.5),-77.20,-11.50
+Valencia,787808,Spain,Point(-0.375 39.466666666),-0.38,39.47
+Columbus,787033,United States of America,Point(-82.983333333 39.983333333),-82.98,39.98
+Lilongwe,781538,Malawi,Point(33.783333333 -13.983333333),33.78,-13.98
+Dushanbe,780000,Tajikistan,Point(68.786388888 38.573055555),68.79,38.57
+Malang,780000,Indonesia,Point(112.62 -7.98),112.62,-7.98
+Hillah,780000,Iraq,Point(44.433333333 32.483333333),44.43,32.48
+Antipolo,776386,Philippines,Point(121.166666666 14.583333333),121.17,14.58
+Kraków,766739,Poland,Point(19.95 50.066666666),19.95,50.07
+Leeds,766399,United Kingdom,Point(-1.549166666 53.799722222),-1.55,53.80
+Kaduna,760084,Nigeria,Point(7.440277777 10.523055555),7.44,10.52
+Louisville,760026,United States of America,Point(-85.760277777 38.254166666),-85.76,38.25
+Hargeisa,760000,Somaliland,Point(44.060556 9.565556),44.06,9.57
+Lviv,758400,Ukraine,Point(24.014166666 49.83),24.01,49.83
+La Paz,757184,Bolivia,Point(-68.1475 -16.494166666),-68.15,-16.49
+Pasig,755300,Philippines,Point(121.083333333 14.575),121.08,14.58
+Samarinda,753370,Indonesia,Point(117.153611111 -0.502222222),117.15,-0.50
+Colombo,752993,Sri Lanka,Point(79.833333333 6.916666666),79.83,6.92
+Samarinda,752845,Indonesia,Point(117.153611111 -0.502222222),117.15,-0.50
+Zaporizhzhia,748984,Ukraine,Point(35.138333333 47.837777777),35.14,47.84
+Ansan,747035,South Korea,Point(126.821944444 37.323611111),126.82,37.32
+Tyumen,744554,Russia,Point(65.533333333 57.15),65.53,57.15
+Thiruvananthapuram,743691,India,Point(76.899722222 8.5),76.90,8.50
+Guntur,743354,India,Point(80.45 16.3),80.45,16.30
+Pretoria,741651,South Africa,Point(28.188055555 -25.746388888),28.19,-25.75
+Pretoria,741651,South Africa,Point(28.18783 -25.74486),28.19,-25.74
+Kumamoto,739858,Japan,Point(130.7 32.8),130.70,32.80
+Frankfurt,736414,Germany,Point(8.679722222 50.113611111),8.68,50.11
+Bangui,734350,Central African Republic,Point(18.555277777 4.361388888),18.56,4.36
+Charlotte,731424,United States of America,Point(-80.843333333 35.226944444),-80.84,35.23
+Najaf,724700,Iraq,Point(44.339621 32.028951),44.34,32.03
+Sagamihara,722157,Japan,Point(139.366666666 35.566666666),139.37,35.57
+Mississauga,721599,Canada,Point(-79.65 43.6),-79.65,43.60
+Okayama,721294,Japan,Point(133.916666666 34.65),133.92,34.65
+Tongling,720000,People's Republic of China,Point(117.766667 30.933333),117.77,30.93
+Enugu,715774,Nigeria,Point(7.494166666 6.440277777),7.49,6.44
+Łódź,715360,Poland,Point(19.458511111 51.759494444),19.46,51.76
+Tolyatti,710567,Russia,Point(49.416666666 53.516666666),49.42,53.52
+Santo André,710210,Brazil,Point(-46.533333333 -23.657222222),-46.53,-23.66
+Subang Jaya,708296,Malaysia,Point(101.593611111 3.064444444),101.59,3.06
+George Town,708127,Malaysia,Point(100.3292 5.4145),100.33,5.41
+Saharanpur,705478,India,Point(77.546 29.964),77.55,29.96
+Winnipeg,705244,Canada,Point(-97.15 49.883333),-97.15,49.88
+Louisville,701500,United States of America,Point(-85.760277777 38.254166666),-85.76,38.25
+Latakia,700000,Syria,Point(35.791666666 35.523611111),35.79,35.52
+Shizuoka,699087,Japan,Point(138.3825 34.975555555),138.38,34.98
+Riga,698529,Latvia,Point(24.106944444 56.9475),24.11,56.95
+Osasco,694844,Brazil,Point(-46.791944444 -23.532777777),-46.79,-23.53
+Salem,693236,India,Point(78.166666666 11.65),78.17,11.65
+Guadalupe,691931,Mexico,Point(-100.259722222 25.6775),-100.26,25.68
+Karbala,690100,Iraq,Point(44.033333333 32.616666666),44.03,32.62
+Seville,689434,Spain,Point(-5.983333333 37.383333333),-5.98,37.38
+São José dos Campos,688597,Brazil,Point(-45.886944444 -23.178888888),-45.89,-23.18
+Chișinău,685900,Moldova,Point(28.8575 47.005555555),28.86,47.01
+Detroit,680250,United States of America,Point(-83.0475 42.331666666),-83.05,42.33
+Shigatse,679771,People's Republic of China,Point(88.87988 29.26492),88.88,29.26
+Anyang,679184,People's Republic of China,Point(114.34614 36.09561),114.35,36.10
+Tasikmalaya,678027,Indonesia,Point(108.2 -7.333333333),108.20,-7.33
+Cagayan de Oro,675950,Philippines,Point(124.65 8.483333333),124.65,8.48
+Matola,675422,Mozambique,Point(32.466666666 -25.966666666),32.47,-25.97
+Palermo,674435,Italy,Point(13.361262 38.115658),13.36,38.12
+Acapulco,673479,Mexico,Point(-99.8870087 16.8628695),-99.89,16.86
+Gorakhpur,673446,India,Point(83.366666666 26.75),83.37,26.75
+Nashville,668347,United States of America,Point(-86.783888888 36.165),-86.78,36.17
+Urmia,667499,Iran,Point(45.1 37.55),45.10,37.55
+Ribeirão Preto,666323,Brazil,Point(-47.806666666 -21.178333333),-47.81,-21.18
+Parañaque,665822,Philippines,Point(121.016666666 14.466666666),121.02,14.47
+Huambo,665564,Angola,Point(15.733333333 -12.766666666),15.73,-12.77
+Tlaquepaque,664193,Mexico,Point(-103.316666666 20.65),-103.32,20.65
+Athens,664046,Greece,Point(23.716111111 37.979444444),23.72,37.98
+Bremen,661000,Germany,Point(8.5913 53.347266666),8.59,53.35
+Bremen,661000,Nazi Germany,Point(8.5913 53.347266666),8.59,53.35
+Bremen,661000,Weimar Republic,Point(8.5913 53.347266666),8.59,53.35
+Bouaké,659233,Ivory Coast,Point(-5.03306 7.68333),-5.03,7.68
+Bouaké,659233,Ivory Coast,Point(-5.016666666 7.683333333),-5.02,7.68
+Dasmariñas,659019,Philippines,Point(120.936666666 14.329444444),120.94,14.33
+"Washington, D.C.",658893,United States of America,Point(-77.036666666 38.895),-77.04,38.90
+Bujumbura,658859,Burundi,Point(29.361111111 -3.3825),29.36,-3.38
+Kryvyi Rih,657100,Ukraine,Point(33.25 47.916667),33.25,47.92
+Sulaymaniyah,656100,Iraq,Point(45.433333333 35.55),45.43,35.55
+Boston,655884,United States of America,Point(-71.061666666 42.357777777),-71.06,42.36
+Hwaseong,655350,South Korea,Point(126.766666666 37.2),126.77,37.20
+Kryvyi Rih,654900,Ukraine,Point(33.25 47.916667),33.25,47.92
+Durango,654876,Mexico,Point(-104.654444444 24.022777777),-104.65,24.02
+Bulawayo,653337,Zimbabwe,Point(28.566666666 -20.166666666),28.57,-20.17
+Jeonju,653055,South Korea,Point(127.148888888 35.821944444),127.15,35.82
+Pontianak,651598,Indonesia,Point(109.333333333 0.0),109.33,0.00
+Pontianak,651139,Indonesia,Point(109.333333333 0.0),109.33,0.00
+Denver,649495,United States of America,Point(-104.984722222 39.739166666),-104.98,39.74
+El Paso,649133,United States of America,Point(-106.423333333 31.790277777),-106.42,31.79
+Asmara,649000,Eritrea,Point(38.916666666 15.333333333),38.92,15.33
+Memphis,646889,United States of America,Point(-89.971111111 35.1175),-89.97,35.12
+Izhevsk,646277,Russia,Point(53.216666666 56.85),53.22,56.85
+Sorocaba,644919,Brazil,Point(-47.457777777 -23.501944444),-47.46,-23.50
+Yurimaguas,644547,Peru,Point(-76.083333333 -5.9),-76.08,-5.90
+Rasht,639951,Iran,Point(49.6 37.283333333),49.60,37.28
+Petaling Jaya,638516,Malaysia,Point(101.608333333 3.106666666),101.61,3.11
+Kuwait City,637411,Kuwait,Point(47.98 29.375),47.98,29.38
+Ipoh,637000,Malaysia,Point(101.07 4.6),101.07,4.60
+Banjarmasin,635688,Indonesia,Point(114.583333333 -3.333333333),114.58,-3.33
+Oslo,634463,Norway,Point(10.752777777 59.911111111),10.75,59.91
+Wrocław,634404,Poland,Point(17.03533 51.10773),17.04,51.11
+Barnaul,633301,Russia,Point(83.787222222 53.356666666),83.79,53.36
+Funabashi,631973,Japan,Point(139.9825 35.694722222),139.98,35.69
+Benghazi,631555,Libya,Point(20.066666666 32.116666666),20.07,32.12
+Vancouver,631486,Canada,Point(-123.1 49.25),-123.10,49.25
+Rotterdam,631155,Netherlands,Point(4.479166666 51.930833333),4.48,51.93
+Al Ain,631005,United Arab Emirates,Point(55.744722222 24.2075),55.74,24.21
+Cheonan,629062,South Korea,Point(127.152222222 36.806388888),127.15,36.81
+Namyangju,629061,South Korea,Point(127.214166666 37.636666666),127.21,37.64
+Cancún,628306,Mexico,Point(-86.8475 21.160555555),-86.85,21.16
+Stuttgart,628032,Germany,Point(9.1775 48.776111111),9.18,48.78
+Bhilai,625700,India,Point(81.716666666 21.366666666),81.72,21.37
+Ulyanovsk,624518,Russia,Point(48.366666666 54.316666666),48.37,54.32
+Djibouti,623891,Djibouti,Point(43.148055555 11.595),43.15,11.60
+Mangalore,623841,India,Point(74.880555555 12.870277777),74.88,12.87
+Irkutsk,623736,Russia,Point(104.3 52.283333333),104.30,52.28
+Turpan,622903,People's Republic of China,Point(89.17918 42.94513),89.18,42.95
+Baltimore,622104,United States of America,Point(-76.615 39.286388888),-76.62,39.29
+Helsinki,620982,Finland,Point(24.948611111 60.173333333),24.95,60.17
+Valenzuela,620422,Philippines,Point(120.983333333 14.7),120.98,14.70
+Helwan,619293,Egypt,Point(31.334166666 29.841944444),31.33,29.84
+Khabarovsk,616242,Russia,Point(135.066666666 48.483333333),135.07,48.48
+Hamhung,614198,North Korea,Point(127.533333333 39.916666666),127.53,39.92
+Buraidah,614093,Saudi Arabia,Point(43.966666666 26.333333333),43.97,26.33
+Serang,613356,Indonesia,Point(106.150277777 -6.12),106.15,-6.12
+Düsseldorf,613230,Germany,Point(6.816666666 51.216666666),6.82,51.22
+Tirana,610050,Albania,Point(19.82 41.33),19.82,41.33
+Seattle,608660,United States of America,Point(-122.316666666 47.6),-122.32,47.60
+Yaroslavl,608079,Russia,Point(39.85 57.616666666),39.85,57.62
+Kuantan,607778,Malaysia,Point(103.333333333 3.816666666),103.33,3.82
+Vladivostok,606589,Russia,Point(131.9 43.116666666),131.90,43.12
+Cuttack,606007,India,Point(85.866666666 20.45),85.87,20.45
+Uberlândia,604013,Brazil,Point(-48.276944444 -18.918888888),-48.28,-18.92
+Zagazig,602840,Egypt,Point(31.5 30.566666666),31.50,30.57
+Sargodha,602631,Pakistan,Point(72.671111111 32.083611111),72.67,32.08
+Copenhagen,602481,Denmark,Point(12.568888888 55.676111111),12.57,55.68
+Jambi,602187,Indonesia,Point(103.61 -1.59),103.61,-1.59
+Kochi,601574,India,Point(76.283333333 9.966666666),76.28,9.97
+Bacoor,600609,Philippines,Point(120.95 14.45),120.95,14.45
+Milwaukee,600155,United States of America,Point(-87.95 43.05),-87.95,43.05
+Chamdo,598862,People's Republic of China,Point(97.17767 31.13749),97.18,31.14
+Glasgow,598830,United Kingdom,Point(-4.27 55.87),-4.27,55.87
+Balikpapan,598043,Indonesia,Point(116.903055555 -1.148888888),116.90,-1.15
+Kagoshima,597932,Japan,Point(130.557222222 31.596666666),130.56,31.60
+Balikpapan,597625,Indonesia,Point(116.903055555 -1.148888888),116.90,-1.15
+Ta'izz,596672,Yemen,Point(44.021944444 13.578888888),44.02,13.58
+Durban,595061,South Africa,Point(31.025 -29.858333333),31.03,-29.86
+General Santos,594446,Philippines,Point(125.166666666 6.116666666),125.17,6.12
+Brampton,593638,Canada,Point(-79.766666666 43.683333333),-79.77,43.68
+Makhachkala,592976,Russia,Point(47.483333333 42.983333333),47.48,42.98
+Oklahoma City,591967,United States of America,Point(-97.5352 35.4823),-97.54,35.48
+Essen,590194,Germany,Point(7.013055555 51.450833333),7.01,51.45
+Turpan,589609,People's Republic of China,Point(89.17918 42.94513),89.18,42.95
+Las Piñas,588894,Philippines,Point(120.983333333 14.45),120.98,14.45
+Dortmund,585813,Germany,Point(7.465277777 51.513888888),7.47,51.51
+Anyang,585177,South Korea,Point(126.926944444 37.3925),126.93,37.39
+Kawaguchi,584825,Japan,Point(139.724166666 35.807777777),139.72,35.81
+Shah Alam,584340,Malaysia,Point(101.533333333 3.083333333),101.53,3.08
+Portland,583776,United States of America,Point(-122.666666666 45.516666666),-122.67,45.52
+Las Vegas,583756,United States of America,Point(-115.144722222 36.169166666),-115.14,36.17
+Genoa,583601,Italy,Point(8.933983333 44.407186111),8.93,44.41
+Makati,582602,Philippines,Point(121.033333333 14.55),121.03,14.55
+Dehradun,578420,India,Point(78.029 30.318),78.03,30.32
+Hachiōji,578270,Japan,Point(139.316666666 35.666666666),139.32,35.67
+Rabat,577827,Morocco,Point(-6.836111111 34.025277777),-6.84,34.03
+Chiclayo,574408,Peru,Point(-79.836613888 -6.762961111),-79.84,-6.76
+San Jose del Monte,574089,Philippines,Point(121.045277777 14.813888888),121.05,14.81
+Kerman,573449,Iran,Point(57.066666666 30.283333333),57.07,30.28
+Tomsk,572740,Russia,Point(84.952222222 56.488611111),84.95,56.49
+Leipzig,571088,Germany,Point(12.383333333 51.333333333),12.38,51.33
+Málaga,569002,Spain,Point(-4.416666666 36.716666666),-4.42,36.72
+San Salvador,567698,El Salvador,Point(-89.19 13.69),-89.19,13.69
+Macau,566375,People's Republic of China,Point(113.55 22.166666666),113.55,22.17
+Bremen,565719,Germany,Point(8.808888888 53.076944444),8.81,53.08
+Bremen,565719,Germany,Point(8.79063 53.08891),8.79,53.09
+Orenburg,564443,Russia,Point(55.1 51.766666666),55.10,51.77
+Asansol,563917,India,Point(86.966666666 23.683333333),86.97,23.68
+Bacolod,561875,Philippines,Point(122.95 10.666666666),122.95,10.67
+Zahedan,560725,Iran,Point(60.866666666 29.483333333),60.87,29.48
+Albuquerque,559277,United States of America,Point(-106.616666666 35.116666666),-106.62,35.12
+Kemerovo,556920,Russia,Point(86.066666666 55.333333333),86.07,55.33
+Tuxtla Gutiérrez,553374,Mexico,Point(-93.115555555 16.753055555),-93.12,16.75
+Novokuznetsk,552445,Russia,Point(87.116666666 53.75),87.12,53.75
+Surakarta,552118,Indonesia,Point(110.816666666 -7.566666666),110.82,-7.57
+Turpan,550731,People's Republic of China,Point(89.17918 42.94513),89.18,42.95
+Eslamshahr,548620,Iran,Point(51.2 35.533333333),51.20,35.53
+Al Hudaydah,548433,Yemen,Point(42.951111111 14.802222222),42.95,14.80
+Dresden,547172,Germany,Point(13.733333333 51.033333333),13.73,51.03
+Lisbon,545245,Portugal,Point(-9.166666666 38.716666666),-9.17,38.72
+Poznań,544612,Poland,Point(16.916666666 52.4),16.92,52.40
+Nasiriyah,541600,Iraq,Point(46.250277777 31.053888888),46.25,31.05
+Ashgabat,540600,Turkmenistan,Point(58.383333333 37.95),58.38,37.95
+Sekondi-Takoradi,539548,Ghana,Point(-1.766666666 4.916666666),-1.77,4.92
+Ryazan,537622,Russia,Point(39.716666666 54.616666666),39.72,54.62
+Hamilton,536917,Canada,Point(-79.866666666 43.25),-79.87,43.25
+Chongqing,535000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Aba,534265,Nigeria,Point(7.366666666 5.116666666),7.37,5.12
+Gimhae,534124,South Korea,Point(128.881111111 35.234166666),128.88,35.23
+Himeji,532994,Japan,Point(134.683333333 34.816666666),134.68,34.82
+Hanover,532864,Germany,Point(9.738611111 52.374444444),9.74,52.37
+Vilnius,532762,Lithuania,Point(25.283333333 54.683333333),25.28,54.68
+Astrakhan,532504,Russia,Point(48.016666666 46.333333333),48.02,46.33
+Quebec City,531902,Canada,Point(-71.224167 46.816111),-71.22,46.82
+Naberezhnye Chelny,529797,Russia,Point(52.333333333 55.7),52.33,55.70
+Bikaner,529007,India,Point(73.316944444 28.018055555),73.32,28.02
+Chongqing,528000,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Dublin,527612,Ireland,Point(-6.265833333 53.3425),-6.27,53.34
+San Miguel de Tucumán,527607,Argentina,Point(-65.216666666 -26.816666666),-65.22,-26.82
+Gomel,527172,Belarus,Point(30.983333333 52.441666666),30.98,52.44
+Hamadan,525794,Iran,Point(48.516666666 34.8),48.52,34.80
+Port Said,524433,Egypt,Point(32.283333333 31.25),32.28,31.25
+Asunción,524190,Paraguay,Point(-57.633333333 -25.3),-57.63,-25.30
+Penza,523726,Russia,Point(45.0 53.2),45.00,53.20
+Agartala,522613,India,Point(91.266666666 23.833333333),91.27,23.83
+Tultitlán de Mariano Escobedo,520557,Mexico,Point(-99.169444444 19.645),-99.17,19.65
+Tultitlán de Mariano Escobedo,520557,Mexico,Point(-99.16796 19.64756),-99.17,19.65
+Meknes,520428,Morocco,Point(-5.55 33.883333333),-5.55,33.88
+Pohang,520305,South Korea,Point(129.365 36.032222222),129.37,36.03
+Manchester,520215,United Kingdom,Point(-2.233333333 53.466666666),-2.23,53.47
+Utsunomiya,520197,Japan,Point(139.883333333 36.55),139.88,36.55
+Tucson,520116,United States of America,Point(-110.926388888 32.221666666),-110.93,32.22
+Sheffield,518090,United Kingdom,Point(-1.471944444 53.3825),-1.47,53.38
+Surrey,517887,Canada,Point(-122.85 49.1833),-122.85,49.18
+Gaza City,515556,State of Palestine,Point(34.45 31.516666666),34.45,31.52
+Ujjain,515215,India,Point(75.777222222 23.182777777),75.78,23.18
+Siliguri,513264,India,Point(88.683333333 27.2),88.68,27.20
+Cimahi,513176,Indonesia,Point(107.533333333 -6.883333333),107.53,-6.88
+Matsuyama,512604,Japan,Point(132.76574 33.83916),132.77,33.84
+Matsuyama,512604,Japan,Point(132.766666666 33.833333333),132.77,33.83
+Nuremberg,511628,Germany,Point(11.077777777 49.452777777),11.08,49.45
+Amarah,511500,Iraq,Point(47.15 31.833333333),47.15,31.83
+Carrefour,511345,Haiti,Point(-72.4 18.53333),-72.40,18.53
+Lipetsk,510439,Russia,Point(39.6 52.616666666),39.60,52.62
+Aden,507355,Yemen,Point(45.033333333 12.8),45.03,12.80
+Jhansi,507000,India,Point(78.56962 25.44862),78.57,25.45
+Skopje,506926,Republic of Macedonia,Point(21.433333333 41.983333333),21.43,41.98
+Ulhasnagar,506098,India,Point(73.15 19.216666666),73.15,19.22
+Muntinlupa,504509,Philippines,Point(121.05 14.383333333),121.05,14.38
+Samarkand,504423,Uzbekistan,Point(66.959722222 39.654166666),66.96,39.65
+Kitwe,504194,Zambia,Point(28.211944444 -12.820833333),28.21,-12.82
+Jammu,502197,India,Point(74.85 32.733333333),74.85,32.73
+Ife,501952,Nigeria,Point(4.566666666 7.466666666),4.57,7.47
+Kirov,501468,Russia,Point(49.65 58.6),49.65,58.60
+Karaganda,501129,Kazakhstan,Point(73.116666666 49.8),73.12,49.80
+Ctesiphon,500000,Iraq,Point(44.580833 33.093611),44.58,33.09
+Quetzaltenango,500000,Guatemala,Point(-91.516666666 14.833333333),-91.52,14.83
+6th of October City,500000,Egypt,Point(30.926944444 29.936111111),30.93,29.94
+Mawlamyine,500000,Myanmar,Point(97.625833333 16.484722222),97.63,16.48
+Duisburg,499845,Germany,Point(6.761111111 51.432222222),6.76,51.43
+Mykolaiv,498748,Ukraine,Point(32.0 46.966666666),32.00,46.97
+Higashiōsaka,498099,Japan,Point(135.600833333 34.679444444),135.60,34.68
+Johor Bahru,497097,Malaysia,Point(103.733333333 1.483333333),103.73,1.48
+Niterói,496696,Brazil,Point(-43.103611111 -22.883333333),-43.10,-22.88
+Fresno,494665,United States of America,Point(-119.792222222 36.781666666),-119.79,36.78
+Telemcan,494252,Morocco,Point(-1.911388888 34.686666666),-1.91,34.69
+Kandahar,491500,Afghanistan,Point(65.705277777 31.607777777),65.71,31.61
+Ichikawa,489696,Japan,Point(139.931111111 35.721944444),139.93,35.72
+Cheboksary,489498,Russia,Point(47.25 56.133333333),47.25,56.13
+Port Sudan,489275,Sudan,Point(37.216388888 19.615833333),37.22,19.62
+Nishinomiya,488398,Japan,Point(135.333333333 34.733333333),135.33,34.73
+Matsudo,488187,Japan,Point(139.903055555 35.787777777),139.90,35.79
+Belgaum,488157,India,Point(74.5 15.866666666),74.50,15.87
+Mykolaiv,487996,Ukraine,Point(32.0 46.966666666),32.00,46.97
+Ensenada,486639,Mexico,Point(-116.605833333 31.857777777),-116.61,31.86
+Yazd,486152,Iran,Point(54.367777777 31.897222222),54.37,31.90
+Suez,485342,Egypt,Point(32.533333333 29.966666666),32.53,29.97
+Tula,485221,Russia,Point(37.616666666 54.2),37.62,54.20
+Sacramento,485199,United States of America,Point(-121.486111111 38.575277777),-121.49,38.58
+Arak,484212,Iran,Point(49.7 34.08),49.70,34.08
+Ardabil,482632,Iran,Point(48.3 38.25),48.30,38.25
+Ōita,478537,Japan,Point(131.606666666 33.233333333),131.61,33.23
+Nampula,477900,Mozambique,Point(39.266666666 -15.116666666),39.27,-15.12
+Piura,477801,Peru,Point(-80.625277777 -5.200833333),-80.63,-5.20
+Florianópolis,477798,Brazil,Point(-48.553047222 -27.593280555),-48.55,-27.59
+Chiniot,477781,Pakistan,Point(72.983333333 31.716666666),72.98,31.72
+Kurashiki,477181,Japan,Point(133.771944444 34.585),133.77,34.59
+Wuhai,477000,People's Republic of China,Point(106.811388888 39.670833333),106.81,39.67
+Samarkand,476929,Uzbekistan,Point(66.959722222 39.654166666),66.96,39.65
+Sukkur,476776,Pakistan,Point(68.867286111 27.699522222),68.87,27.70
+Vila Velha,472762,Brazil,Point(-40.293611111 -20.336388888),-40.29,-20.34
+San Juan,471389,Argentina,Point(-68.536388888 -31.5375),-68.54,-31.54
+Baqubah,467900,Iraq,Point(44.643611111 33.744722222),44.64,33.74
+Kaliningrad,467289,Russia,Point(20.5 54.716666666),20.50,54.72
+Tamale,466723,Ghana,Point(-0.853333333 9.4075),-0.85,9.41
+Liverpool,466415,United Kingdom,Point(-3.0 53.416666666),-3.00,53.42
+Kanazawa,466031,Japan,Point(136.65 36.566666666),136.65,36.57
+Edinburgh,464990,United Kingdom,Point(-3.198888888 55.95),-3.20,55.95
+Lhasa,464736,People's Republic of China,Point(91.1 29.65),91.10,29.65
+Leicester,464395,United Kingdom,Point(-1.133333333 52.633333333),-1.13,52.63
+Fukuyama,463618,Japan,Point(133.3625 34.485833333),133.36,34.49
+Long Beach,462257,United States of America,Point(-118.1956168 33.768321),-118.20,33.77
+Gdańsk,462249,Poland,Point(18.633333333 54.366666666),18.63,54.37
+Manado,461636,Indonesia,Point(124.841261111 1.493055555),124.84,1.49
+Jalgaon,460468,India,Point(75.566666666 21.016666666),75.57,21.02
+Kansas City,459787,United States of America,Point(-94.583333333 39.05),-94.58,39.05
+Pyeongtaek,457873,South Korea,Point(127.088888888 36.994722222),127.09,36.99
+Ramadi,456853,Iraq,Point(43.3 33.416666666),43.30,33.42
+Malacca City,455300,Malaysia,Point(102.251111111 2.188888888),102.25,2.19
+Ndola,455194,Zambia,Point(28.6337 -12.968269444),28.63,-12.97
+Calamba,454486,Philippines,Point(121.166666666 14.216666666),121.17,14.22
+Mauá,453286,Brazil,Point(-46.460833333 -23.667777777),-46.46,-23.67
+Kota Kinabalu,452058,Malaysia,Point(116.095277777 5.971388888),116.10,5.97
+Amagasaki,451000,Japan,Point(135.41667 34.71667),135.42,34.72
+Amagasaki,451000,Japan,Point(135.4 34.733333333),135.40,34.73
+Balashikha,450771,Russia,Point(37.95 55.8),37.95,55.80
+Marikina,450741,Philippines,Point(121.1 14.65),121.10,14.65
+Vung Tau,450000,Vietnam,Point(107.141666666 10.404166666),107.14,10.40
+Mariupol,449498,Ukraine,Point(37.563888888 47.130555555),37.56,47.13
+Mariupol,449498,Russian Empire,Point(37.563888888 47.130555555),37.56,47.13
+Kursk,449063,Russia,Point(36.183333333 51.716666666),36.18,51.72
+Virginia Beach,448479,United States of America,Point(-75.9779 36.8506),-75.98,36.85
+Rajshahi,448087,Bangladesh,Point(88.6 24.366666666),88.60,24.37
+Iloilo City,447992,Philippines,Point(122.566666666 10.716666666),122.57,10.72
+Atlanta,447841,United States of America,Point(-84.390277777 33.756944444),-84.39,33.76
+Tallinn,446055,Estonia,Point(24.745 59.437222222),24.75,59.44
+Santiago de Cuba,444851,Cuba,Point(-75.820555555 20.028333333),-75.82,20.03
+Murcia,443243,Spain,Point(-1.130277777 37.986111111),-1.13,37.99
+San Nicolás de los Garza,443031,Mexico,Point(-100.28333333 25.75),-100.28,25.75
+El-Mahalla El-Kubra,442958,Egypt,Point(31.166666666 30.966666666),31.17,30.97
+Constantine,442862,Algeria,Point(6.614722222 36.365),6.61,36.37
+São José do Rio Preto,442548,Brazil,Point(-49.378888888 -20.82),-49.38,-20.82
+Bristol,442500,United Kingdom,Point(-2.583333333 51.45),-2.58,51.45
+Raleigh,439896,United States of America,Point(-78.644722222 35.818888888),-78.64,35.82
+Mansoura,439348,Egypt,Point(31.383333333 31.05),31.38,31.05
+Mesa,439041,United States of America,Point(-111.831388888 33.415),-111.83,33.42
+Chongqing,437600,People's Republic of China,Point(106.506944444 29.55),106.51,29.55
+Herat,436300,Afghanistan,Point(62.179180555 34.37385),62.18,34.37
+Beira,436240,Mozambique,Point(34.85 -19.833333333),34.85,-19.83
+Larkana,435817,Pakistan,Point(68.226388888 27.56),68.23,27.56
+Bandar Abbas,435751,Iran,Point(56.25 27.2),56.25,27.20
+Jeju,435413,South Korea,Point(126.521944444 33.509722222),126.52,33.51
+Cusco,435114,Peru,Point(-71.978056 -13.518333),-71.98,-13.52
+Machida,434419,Japan,Point(139.446666666 35.548611111),139.45,35.55
+Kupang,433970,Indonesia,Point(123.583333333 -10.183333333),123.58,-10.18
+Santos,433966,Brazil,Point(-46.333888888 -23.960833333),-46.33,-23.96
+Stavropol,433577,Russia,Point(41.983333333 45.05),41.98,45.05
+Zanjan,433475,Iran,Point(48.483333333 36.666666666),48.48,36.67
+Tel Aviv,432892,Israel,Point(34.8 32.083333333),34.80,32.08
+Ulan-Ude,431922,Russia,Point(107.616666666 51.833333333),107.62,51.83
+Kozhikode,431560,India,Point(75.766666666 11.25),75.77,11.25
+Kenitra,431282,Morocco,Point(-6.583333333 34.25),-6.58,34.25
+Tanta,429503,Egypt,Point(31.0 30.783333333),31.00,30.78
+Fujisawa,428837,Japan,Point(139.491388888 35.339166666),139.49,35.34
+Sevastopol,428753,Russia,Point(33.533333333 44.6),33.53,44.60
+Anchorage, 291826, USA, ,-149.9, 61.216667
+Nuuk, 17316, Greenland, ,-51.739,64.175
+McMurdo, , , , 166.668235, -77.846323
+North Pole, , , , 0, 90
+South Pole, , , , 0, -90
+Vostok, , , , 106.83757, -78.463889
+Dunedin, , , , 170.5, -45.866667
+Christchurch, , , , 172.620278, -43.53
+Blenheim, , , ,173.96, -41.514
+Port Moresby, , , , 147.218806, -9.513639
+Cairns, , , , 145.770278, -16.930278
+Darwin, , , , 130.833333, -12.45
+Ushuaia, , , ,  -68.303056, -54.801944

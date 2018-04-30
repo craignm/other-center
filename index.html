@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<header>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Other Center</title>
+
+<style>
+
+.frame {
+  fill: none;
+  stroke: #000;
+}
+
+body {
+  font: 10px sans-serif;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis line,
+.axis circle {
+  fill: none;
+  stroke: #777;
+  stroke-dasharray: 1,4;
+}
+
+.axis :last-of-type circle {
+  stroke: #333;
+  stroke-dasharray: none;
+  fill: white;
+}
+
+.dot {
+  fill: gray;
+}
+
+.cityname {
+  font: 10px sans-serif;
+}
+ 
+.line {
+  fill: none;
+  stroke: gray;
+
+}
+
+.svg-container {
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    width: 100%;
+}
+
+svg {
+  display:block; 
+  position:absolute;
+  top:2%; 
+  left:1%; 
+  width:96%; 
+  height:96%;
+}
+
+
+.svg-content {
+    display: inline-block;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+</style>
+</header>
+<body>
+
+  <form action="#" onsubmit="showAddress(this.location.value); return false">
+    <input type="text" style="width:150px" name="location" placeholder="Location" />
+    <input type="submit" value="Set Center" />
+  </form>
+
+  <div id="container" class="svg"></div>
+
+  
+  <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyCAUoRSr2LGOTaujknAM-QKmNS1mB739lU" type="text/javascript"></script>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="great_circle.js"></script>
+
+</body>
