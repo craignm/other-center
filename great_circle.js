@@ -1,13 +1,7 @@
 "use strict";
 
-var cities;
 var earthRadius = 6371; // kilometers
 var earthHalfCircumference = earthRadius * Math.PI;
-//var myLat = -36.85, myLng = 174.78; // Auckland
-//  var myLat = 40.67, myLng = -73.94; // New York
-//var myLat = 51.51, myLng = -0.13; // London
-//var myLat = 47.217, myLng = 1.533; // Land Hemisphere
-//var myLat = -47.217, myLng = 178.47; // Water Hemisphere
 var myLat = 39.91, myLng = 116.39; // Beijing
 
 var geocoder = new GClientGeocoder();
@@ -15,15 +9,7 @@ var geocoder = new GClientGeocoder();
 var radius;
 var width = 1000;
 var height = 1000;
-
-/*
-  width = parseInt(d3.select('div#container').style('width'));
-  height = parseInt(d3.select('div#container').style('height'));
-  console.log(height + " " + width);
-  width = Math.min(width, height);
-  height = Math.min(width, height);
-  console.log(height + " " + width);
-*/
+var transform = "translate(" + width / 2 + "," + height / 2 + ")";
 
 radius = Math.min(width, height) / 2 - 30;
 
@@ -40,47 +26,54 @@ var svg = d3.select("div#container")
   .attr("preserveAspectRatio", "xMidYMid meet")
   .attr("viewBox", "0 0 1000 1000")
   .append("g")
-  .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")");
+  .attr("transform", transform);
 
-svg.call(d3.zoom()
-	 .scaleExtent([1 / 2, 8])
-	 .on("zoom", zoomed));
+var chart = svg.append("g");
+
+// For zooming and panning
+svg.append("rect")
+  .attr("x", -width / 2)
+  .attr("y", -height / 2)
+  .attr("width", width)
+  .attr("height", height)
+  .style("fill", "none")
+  .style("pointer-events", "all")
+  .call(d3.zoom()
+        .scaleExtent([1 / 2, 4])
+        .on("zoom", zoomed));
 
 function zoomed() {
-  console.log(d3.event.transform);
-  var transform = d3.event.transform;
-  transform.x = width / 2;
-  transform.y = height / 2;
-  svg.attr("transform", d3.event.transform);
+  chart.attr("transform", d3.event.transform);
 }
 
 function drawChart() {
-  svg.selectAll("*").remove();
+  chart.selectAll("*").remove();
 
-  var gr = svg.append("g")
+  var gr = chart.append("g")
     .attr("class", "r axis")
     .selectAll("g")
     .data(r.ticks(5).slice(1))
     .enter().append("g");
 
   gr.append("circle")
-    .attr("r", r)
-    .attr("fill", "blue");
+    .attr("r", r);
   
   var comma = d3.format(",");
+  var axisBoundingBoxes = [];
   
   gr.append("text")
     .attr("y", function(d) { return -r(d) - 4; })
     .attr("transform", "rotate(15)")
     .style("text-anchor", "middle")
-    .text(function(d) { return comma(d) + " km"; });
-  
+    .text(function(d) { return comma(d) + " km"; })
+    .each(function(d) { axisBoundingBoxes.push([this.getBoundingClientRect(), d]); });
+
   var cardinalDirections = 
-    [[0, "E"], [45, "NE"], [90, "N"], [135, "NW"], 
+    [[0  , "E"], [45 , "NE"], [90 , "N"], [135, "NW"], 
      [180, "W"], [225, "SW"], [270, "S"], [315, "SE"]];
   
-  var ga = svg.append("g")
-    .attr("class", "a axis")
+  var ga = chart.append("g")
+    .attr("class", "axis")
     .selectAll("g")
     .data(cardinalDirections)
     .enter().append("g")
@@ -95,18 +88,14 @@ function drawChart() {
     .attr("transform", function(d) { return "translate(" + (radius + 15) +") rotate(" + d[0] + ")"; })
     .text(function(d) { return d[1]; });
   
-  d3.csv("cities.csv", function(data) {
-      console.log(data);
-      cities = data;
-      
-      drawCoastline();
+  d3.csv("cities.csv", function(cities) {
+      drawCoastline(cities, axisBoundingBoxes);
     });
 }
 
 drawChart();
 
-
-function showAddress(address) {
+function geocodeAddress(address) {
   if (geocoder) {
     geocoder.getLatLng(
 		       address,
@@ -123,7 +112,7 @@ function showAddress(address) {
 
 // Draw coastline.
 
-function drawCoastline() {
+function drawCoastline(cities, existingBoundingBoxes) {
   d3.json('coastline.json', function(error, mapData) {
       var coastlines = [];
       var coastlineIndex = 0;
@@ -149,33 +138,33 @@ function drawCoastline() {
       
       for (var i = 0; i < coastlines.length; i++) {
 	if (coastlines[i].length > 1) {
-	  svg.append("path")
+	  chart.append("path")
 	    .datum(coastlines[i])
 	    .attr("class", "line")
 	    .attr("d", line);
 	}
       }
       
-      drawCities();
+      drawCities(cities, existingBoundingBoxes);
     });
 }
 
 // City labels
 
-function drawCities() {
-  var data = [];
-  var existingBoundingBoxes = [];
-  //  var candidate = svg.append("g");
-
+function drawCities(cities, existingBoundingBoxes) {
   for (var i = 0; i < 2000; i ++) {
     if (!cities[i]) {
       break;
     }
+
     var bd = bearingAndDistance(myLat, myLng, 
 				+cities[i].latitude, +cities[i].longitude);
 
-    var point = svg.append("g")
-      .attr("transform", "rotate(" + (bd.bearing.toDegrees() - 90) + ") translate("+ r(bd.distance) +") rotate(" + (90 - bd.bearing.toDegrees()) + ")");
+    var point = chart.append("g")
+      .attr("transform", 
+	    "rotate(" + (bd.bearing.toDegrees() - 90) + ") " +
+	    "translate("+ r(bd.distance) +") " +
+	    "rotate(" + (90 - bd.bearing.toDegrees()) + ")");
 
     point.append("text")
       .attr("class", "cityname")
@@ -189,43 +178,13 @@ function drawCities() {
     
     var boundingBox = point.node(0).getBoundingClientRect();
 
-    //    console.log(i + " " + cities[i].cityLabel + ": " + bd.bearing + "˚, " + bd.distance + " km");
-
     if (overlaps(boundingBox, existingBoundingBoxes)) {
-      //      console.log("REMOVING....................");
       point.remove();
     } else {
-      data.push([bd.bearing, bd.distance, cities[i].cityLabel]);
       existingBoundingBoxes.push([boundingBox, cities[i].cityLabel]);
     }
   }
 
-  //  svg.append("path")
-  //    .data(data)
-  //    .attr("class", "line")
-  //    .attr("d", pathData);
-
-  /*
-  var points = svg.selectAll(".dot")
-    .data(data)
-    .enter()
-    .append("g")
-    .attr("class", "a axis")
-    .attr("transform", function(d) { return "rotate(" + (d[0] - 90) + ") translate("+ r(d[1]) +") rotate(" + (90 - d[0]) + ")"; });
-
-  points.
-    .append("text")
-    .text(function(d) { return d[2] })
-    .filter(true)
-    .remove();
-
-  
-  points.append("circle")
-    .attr("class", "dot")
-    .attr("r", 3.5)
-  */
-
-  console.log(data);
 }
 
 var x;
@@ -234,11 +193,8 @@ function overlaps(newBoundingBox, existingBoundingBoxes) {
   var a = newBoundingBox;
   for (var i = 0; i < existingBoundingBoxes.length; i++) {
     var b = existingBoundingBoxes[i][0];
-    //    if((Math.abs(a.left - b.left) * 2 < (a.width + b.width)) &&
-    //       (Math.abs(a.top - b.top) * 2 < (a.height + b.height))) {
     if (a.left < b.left + b.width && b.left < a.left + a.width &&
 	a.top < b.top + b.height && b.top < a.top + a.height) {
-      //      console.log("OVERLAP!!!!!!!!!!!!!!!!! " + existingBoundingBoxes[i][1]);
       return true;
     }
   }
@@ -260,17 +216,20 @@ if (Number.prototype.toDegrees === undefined) {
 function bearingAndDistance(lat1, lng1, lat2, lng2) {
   var latR1 = lat1.toRadians();
   var latR2 = lat2.toRadians();
-  var ΔlatR = (lat2-lat1).toRadians();
-  var ΔlngR = (lng2-lng1).toRadians();
+  var ΔlatR = (lat2 - lat1).toRadians();
+  var ΔlngR = (lng2 - lng1).toRadians();
   
-  var a = Math.sin(ΔlatR/2) * Math.sin(ΔlatR/2) +
+  var a = 
+    Math.sin(ΔlatR / 2) * Math.sin(ΔlatR / 2) +
     Math.cos(latR1) * Math.cos(latR2) *
-    Math.sin(ΔlngR/2) * Math.sin(ΔlngR/2);
+    Math.sin(ΔlngR / 2) * Math.sin(ΔlngR / 2);
+
   var c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
   
   var y = Math.sin(ΔlngR) * Math.cos(latR2);
-  var x = Math.cos(latR1)*Math.sin(latR2) -
-    Math.sin(latR1)*Math.cos(latR2)*Math.cos(ΔlngR);
+  var x = 
+    Math.cos(latR1) * Math.sin(latR2) -
+    Math.sin(latR1) * Math.cos(latR2) * Math.cos(ΔlngR);
   
   return { 
     bearing: Math.atan2(y, x),

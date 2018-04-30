@@ -18,6 +18,7 @@ body {
 
 .axis text {
   font: 10px sans-serif;
+  pointer-events: none;
 }
 
 .axis line,
@@ -30,7 +31,6 @@ body {
 .axis :last-of-type circle {
   stroke: #333;
   stroke-dasharray: none;
-  fill: white;
 }
 
 .dot {
@@ -39,6 +39,7 @@ body {
 
 .cityname {
   font: 10px sans-serif;
+  pointer-events: none;
 }
  
 .line {
@@ -57,7 +58,7 @@ body {
 svg {
   display:block; 
   position:absolute;
-  top:2%; 
+  top:30px; 
   left:1%; 
   width:96%; 
   height:96%;
@@ -75,12 +76,13 @@ svg {
 </header>
 <body>
 
-  <form action="#" onsubmit="showAddress(this.location.value); return false">
+  <div id="container" class="svg"></div>
+
+  <form action="#" onsubmit="geocodeAddress(this.location.value); return false">
     <input type="text" style="width:150px" name="location" placeholder="Location" />
     <input type="submit" value="Set Center" />
   </form>
 
-  <div id="container" class="svg"></div>
 
   
   <script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=AIzaSyCAUoRSr2LGOTaujknAM-QKmNS1mB739lU" type="text/javascript"></script>
